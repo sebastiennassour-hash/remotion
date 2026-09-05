@@ -1,0 +1,4 @@
+node_modules
+.remotion
+public/clips/*.mp4
+out/VR-*.png
