@@ -10,5 +10,5 @@
 		"esModuleInterop": true,
 		"types": ["react", "react-dom"]
 	},
-	"include": ["src", "render.ts", "remotion.config.ts"]
+	"include": ["src", "render.mts", "remotion.config.ts"]
 }

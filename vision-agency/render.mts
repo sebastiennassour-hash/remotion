@@ -1,5 +1,5 @@
 // Rend les 15 posts en MP4 + PNG (image fixe) et la planche contact.
-// Usage : bun render.ts [--stills-only] [--only=VA-01-Manifeste]
+// Usage : bun render.mts [--stills-only] [--only=VA-01-Manifeste]
 import {bundle} from '@remotion/bundler';
 import {
 	getCompositions,

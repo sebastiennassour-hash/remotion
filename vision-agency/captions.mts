@@ -1,5 +1,5 @@
 // Génère out/LEGENDES.md : le texte de chaque post + sa légende Instagram.
-// Usage : bun captions.ts
+// Usage : bun captions.mts
 import {mkdirSync, writeFileSync} from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
