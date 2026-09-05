@@ -9,6 +9,9 @@ import {
 } from '@remotion/renderer';
 import {existsSync, mkdirSync} from 'node:fs';
 import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+
+const here = fileURLToPath(new URL('.', import.meta.url));
 
 const STILL_FRAME = 150;
 const args = process.argv.slice(2);
@@ -26,12 +29,12 @@ const browserExecutable =
 	) ??
 	null;
 
-const out = path.join(import.meta.dirname, 'out');
+const out = path.join(here, 'out');
 mkdirSync(out, {recursive: true});
 
 const serveUrl = await bundle({
-	entryPoint: path.join(import.meta.dirname, 'src/index.ts'),
-	publicDir: path.join(import.meta.dirname, 'public'),
+	entryPoint: path.join(here, 'src/index.ts'),
+	publicDir: path.join(here, 'public'),
 });
 
 const compositions = await getCompositions(serveUrl, {browserExecutable});

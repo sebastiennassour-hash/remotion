@@ -2,6 +2,9 @@
 // Usage : bun captions.ts
 import {mkdirSync, writeFileSync} from 'node:fs';
 import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+
+const here = fileURLToPath(new URL('.', import.meta.url));
 import {posts} from './src/posts';
 
 const clean = (s: string) => s.replace(/\*/g, '').replace(/\n/g, ' ');
@@ -60,7 +63,7 @@ posts.forEach((p, i) => {
 	lines.push('');
 });
 
-const out = path.join(import.meta.dirname, 'out');
+const out = path.join(here, 'out');
 mkdirSync(out, {recursive: true});
 writeFileSync(path.join(out, 'LEGENDES.md'), lines.join('\n'));
 console.log(`✔ ${posts.length} légendes → out/LEGENDES.md`);
