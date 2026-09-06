@@ -28,14 +28,14 @@ export type ExplainerProps = {
 	kicker: string;
 	sentences: string[];
 	clips: string[]; // public/clips/... ou public/photos/... (mp4)
-	audio: string; // public/vo/xx.mp3
+	audio?: string; // public/vo/xx.wav — absent = version sans voix (texte + musique + son des plans)
 	audioSeconds?: number;
 	cta: string;
 	music?: string; // public/music/xx.m4a, lit de musique discret
 };
 
 export const calculateExplainerMetadata: CalculateMetadataFunction<ExplainerProps> = async ({props}) => {
-	const seconds = props.audioSeconds ?? (await getAudioDurationInSeconds(staticFile(props.audio)));
+	const seconds = props.audioSeconds ?? (props.audio ? await getAudioDurationInSeconds(staticFile(props.audio)) : props.sentences.length * 3.8);
 	return {
 		props: {...props, audioSeconds: seconds},
 		durationInFrames: Math.ceil((seconds + END_SECONDS) * 30),
@@ -92,7 +92,7 @@ export const Explainer: React.FC<ExplainerProps> = ({kicker, sentences, clips, a
 				<div style={{fontFamily: MONO, fontSize: 18, letterSpacing: '0.16em', textTransform: 'uppercase', color: 'rgba(240,235,224,0.85)'}}>{kicker}</div>
 			</div>
 
-			<Audio src={staticFile(audio)} />
+			{audio ? <Audio src={staticFile(audio)} /> : null}
 			{music ? (
 				<Audio
 					src={staticFile(music)}
