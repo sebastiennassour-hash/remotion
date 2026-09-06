@@ -13,7 +13,7 @@ import {visionFilm, visionReels} from './vision/edls';
 import {GridStatement, HighlightCover, gridStatements, highlightCovers} from './profile/Covers';
 import {CaseSlide, NumberPost, caseSlides, numberPosts} from './profile/CaseStudy';
 import {ErreursSlide, PourquoiSlide, StatementPost, erreurs, pourquoi, statements} from './profile/Batch2';
-import {PhotoPostComp, photoPosts} from './profile/PhotoPosts';
+import {PhotoPostComp, PhotoPostMinComp, photoPosts} from './profile/PhotoPosts';
 import {Explainer, calculateExplainerMetadata} from './explainer/Explainer';
 import {explainers} from './explainer/explainers';
 import {Asmr, asmrDuration} from './asmr/Asmr';
@@ -123,6 +123,10 @@ export const Root: React.FC = () => (
 				<Still key={`${c.slug}-${si}`} id={`CAR-${String(ci + 1).padStart(2, '0')}-${c.slug}-${String(si + 1).padStart(2, '0')}`} component={CarouselSlide} width={1080} height={1350} defaultProps={{def: c, i: si}} />
 			)),
 		)}
+		{photoPosts.map((c, i) => (
+			<Still key={`min-${c.slug}`} id={`POSTMIN-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={PhotoPostMinComp} width={1080} height={1350} defaultProps={{i}} />
+		))}
+		<Still id="GRILLE-Minimal" component={GridPreview} width={1080} height={1440} defaultProps={{order: [2, 1, 6, 9, 10, 0, 11, 15, 16, 18, 13, 4], minimal: true}} />
 		{photoPosts.map((c, i) => (
 			<Still key={`story-${c.slug}`} id={`STORY-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={Story} width={1080} height={1920} defaultProps={{i}} />
 		))}

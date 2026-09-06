@@ -37,6 +37,17 @@ const Kicker: React.FC<{text: string; color?: string}> = ({text, color = IVORY})
 
 export const PhotoPostView: React.FC<{post: PhotoPost}> = ({post}) => {
 	const {template} = post;
+	if (template === 'minimal') {
+		return (
+			<AbsoluteFill style={{background: INK}}>
+				<Photo src={post.photo} focus={post.focus} />
+				<AbsoluteFill style={{background: 'radial-gradient(ellipse 90% 70% at 50% 40%, rgba(0,0,0,0) 55%, rgba(0,0,0,0.38) 100%)'}} />
+				<Kicker text={post.kicker} />
+				<div style={{position: 'absolute', left: 60, right: 60, top: '74%', textAlign: 'center', fontFamily: SANS, fontWeight: 300, fontSize: 30, letterSpacing: '0.34em', textTransform: 'uppercase', color: IVORY, textShadow: '0 2px 8px rgba(0,0,0,0.9), 0 0 30px rgba(0,0,0,0.8)', lineHeight: 1.6}}>{post.short ?? (post.line ?? '').replace(/\*/g, '').replace(/\n/g, ' ')}</div>
+				<Grain opacity={0.07} />
+			</AbsoluteFill>
+		);
+	}
 	if (template === 'letterbox') {
 		return (
 			<AbsoluteFill style={{background: INK}}>
@@ -102,3 +113,4 @@ export const PhotoPostView: React.FC<{post: PhotoPost}> = ({post}) => {
 
 
 export const PhotoPostComp: React.FC<{i: number}> = ({i}) => <PhotoPostView post={photoPosts[i]} />;
+export const PhotoPostMinComp: React.FC<{i: number}> = ({i}) => <PhotoPostView post={{...photoPosts[i], template: 'minimal'}} />;
