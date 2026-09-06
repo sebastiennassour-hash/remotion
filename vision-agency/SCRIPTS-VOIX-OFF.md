@@ -15,7 +15,7 @@ Un restaurant par cuisine, par ville. La vôtre est peut-être libre.
 
 ## EXP-03 — Galata, l’étude de cas
 Galata, à Fribourg. Une cuisine excellente, un compte Instagram silencieux.
-Un tournage, quatre vidéos, trente jours.
+Un tournage, trente jours d’accompagnement.
 Portée multipliée par seize. Douze mille comptes touchés. Visites de profil par six. Clics par dix.
 On ne remplit pas un feed. On remplit une salle.
 Vision.

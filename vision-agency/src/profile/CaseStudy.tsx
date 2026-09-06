@@ -44,7 +44,7 @@ export const caseSlides: {slug: string; node: React.ReactNode}[] = [
 		slug: 'Couverture',
 		node: (
 			<Frame kicker="Étude de cas" index="01 / 06" footer="Galata · Fribourg">
-				<Big>Comment on a rempli<br />une salle avec<br /><Gold>quatre vidéos.</Gold></Big>
+				<Big>Comment on a rempli<br />une salle en<br /><Gold>trente jours.</Gold></Big>
 				<Body>Galata, café-restaurant turc à Fribourg. Trente jours. Un tournage. Résultats réels, client réel.</Body>
 			</Frame>
 		),
@@ -129,7 +129,7 @@ export const numberPosts: {slug: string; node: React.ReactNode}[] = [
 		node: (
 			<Frame kicker="Galata · Fribourg" index="02">
 				<div style={{fontFamily: FRAUNCES, fontWeight: 600, fontSize: 420, lineHeight: 0.9, letterSpacing: '-0.05em', color: GOLD}}>×16</div>
-				<Big size={80}>de portée en trente jours,<br />avec quatre vidéos.</Big>
+				<Big size={80}>de portée<br />en trente jours.</Big>
 				<Body>Douze mille comptes touchés à Fribourg et autour. Pas des vues pour faire joli : des gens qui cliquent et qui viennent.</Body>
 			</Frame>
 		),

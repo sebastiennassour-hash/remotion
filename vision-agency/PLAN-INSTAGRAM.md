@@ -51,7 +51,7 @@ Règle absolue : rien de généré à l’image. Trois piliers seulement : **fac
 
 ### Carrousel Galata
 ```
-Galata, Fribourg : comment on a rempli une salle avec quatre vidéos.
+Un restaurant qu’on accompagne, à Fribourg : comment on a rempli une salle en trente jours.
 
 Un soir de tournage, sans rien changer au service. Trente jours plus tard : seize fois plus de portée, douze mille comptes touchés, six fois plus de visites de profil, dix fois plus de clics.
 
@@ -64,7 +64,7 @@ Résultats mesurés sur 30 jours, une partie de la portée provient de contenus 
 
 ### Chiffre ×16
 ```
-Seize fois plus de portée en trente jours, avec quatre vidéos.
+Seize fois plus de portée en trente jours.
 
 Pas des vues pour faire joli : des gens qui cliquent et qui viennent. Galata, Fribourg. Étude de cas complète en épinglé.
 
