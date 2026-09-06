@@ -1,120 +1,76 @@
-# Vision — Plan Instagram & TikTok (14 jours)
+# Vision — Plan Instagram & TikTok · 14 jours (kit final du 6 septembre)
 
-Objectif : un compte qui vend l’agence pendant que Nassour prospecte. Un seul message répété sous vingt angles : **Vision n’est pas une agence qui vend des vidéos : on accompagne les restaurants à devenir des références. Chez ceux qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.**
+Un seul message, répété sous vingt angles : **Vision n’est pas une agence qui vend des vidéos. On accompagne les restaurants de Suisse romande à devenir des références. Chez ceux qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.**
+
+Règles : aucun nom de client, aucun décompte de vidéos, aucun prix en public, aucune voix synthétique. Le CTA est toujours le message privé.
 
 ## 1. Profil
 
 **Nom** : Vision · Croissance des restaurants
-**Bio** (150 caractères max, 4 lignes) :
-
+**Bio** :
 ```
 On accompagne les restaurants à devenir des références
 ×3 clients en moins de 90 jours · Suisse romande
 Un restaurant par cuisine, par ville
 ↓ Votre place est-elle libre ?
 ```
-
-**Lien** : page de candidature (formulaire court : nom du restaurant, ville, Instagram, téléphone).
-**Photo de profil** : losange or sur noir, pas de texte (le nom est déjà écrit à côté).
-**Stories à la une** (couvertures dans `out/PROFIL-Story-*.png`, dans cet ordre) : Travaux · Coulisses · Méthode · Suisse · Contact.
-**Épinglés** (3) : Brand film Vision · Reel Galata publié · Grille 01 Manifeste.
+**Lien** : visionmedia-agency.com (page candidature : nom du restaurant, ville, Instagram, téléphone).
+**Photo de profil** : losange or sur noir.
+**Stories à la une** (couvertures `out/PROFIL-Story-*.png`) : Coulisses · Méthode · Suisse · Contact.
+**Épinglés** : Brand film v2 · Carrousel 01 « 21h14. Un mardi. » · Post 11 « ×3 clients ».
 
 ## 2. Grille
 
-Alternance stricte pour un profil lisible : **film client → reel Vision → statement or/noir**. Jamais deux visuels typographiques côte à côte. Les statements or/noir (`out/PROFIL-Grille-*.png`) servent de respirations.
+Alternance : **photo forte → carrousel ou reel → photo avec chiffre**. Jamais deux chiffres côte à côte. Ordre de la première grille (aperçu `GRILLE-Apercu.png`) : 03 Table · 02 Façade · 07 Geste · 10 Avant · 11 Lausanne · 01 POV · 12 Fondue · 16 Chef · 17 Feu · 19 Rire · 14 Scène · 05 Chefs.
 
-## 3. Calendrier (version réelle, zéro IA visible)
-
-Règle absolue : rien de généré à l’image. Trois piliers seulement : **face cam Nassour**, **travail client Galata (vrais rushs)**, **statements et chiffres or sur noir**. Les films IA sont retirés de la grille.
+## 3. Calendrier · fichiers dans `deliverables/`
 
 | Jour | Format | Contenu | Fichier |
 | --- | --- | --- | --- |
-| J1 lun | Carrousel épinglé | Étude de cas Galata, 6 slides | `CAS-GALATA-01..06.png` |
-| J1 | Story ×3 | Slide résultats + sondage « Votre resto est sur Reels ? » | natif IG |
-| J2 mar | Reel | Face cam 2 « Galata, en trente jours » | téléphone |
-| J3 mer | Post | Chiffre ×16 | `CHIFFRE-02-x16.png` |
-| J4 jeu | Reel | Galata hero « Une soirée chez Galata », son live | rushs C0713 + C0715 |
-| J5 ven | Reel | Face cam 1 « Pourquoi que des restaurants » | téléphone |
-| J6 sam | Post | Chiffre ×3 | `CHIFFRE-01-x3.png` |
-| J7 dim | Story | Coulisses d’un service Galata | téléphone |
-| J8 lun | Reel | Face cam 3 « Trois fois plus en trois mois » | téléphone |
-| J9 mar | Post | Statement Manifeste | `PROFIL-Grille-01-Manifeste.png` |
-| J10 mer | Reel | Galata « L’ambiance », 12 à 15 s | rushs C0669 + C0665 |
-| J11 jeu | Reel | Face cam 4 « Ce qu’on fait vraiment chez vous » | téléphone |
-| J12 ven | Post | Chiffre 1 (exclusivité) | `CHIFFRE-03-un.png` |
-| J13 sam | Reel | Face cam 5 « Une photo de menu » | téléphone |
-| J14 dim | Story | Récap semaine + compte à rebours candidatures | natif IG |
+| J1 lun | Reel épinglé | Brand film v2 | `reels-final/small-VISION-Film2.mp4` |
+| J1 | Post | 03 Table « Une salle pleine un mardi » | `posts-final/POST-03-Table.png` |
+| J1 | Stories ×3 | 03, 19, 11 | `stories/STORY-03…19…11.png` |
+| J2 mar | Carrousel épinglé | 01 « 21h14. Un mardi. » | `carousels/CAR-01-Soiree-01..07.png` |
+| J2 | Story | 07 Geste | `stories/STORY-07-Geste.png` |
+| J3 mer | Post | 02 Façade « Plus de clients. En 90 jours. » | `posts-final/POST-02-Facade.png` |
+| J3 | Reel | Manifeste 01 | `reels-final/small-MANIFESTE-01-Manifeste.mp4` |
+| J4 jeu | Post | 07 Geste « 500 000 personnes » | `posts-final/POST-07-Geste.png` |
+| J4 | Story | 12 Fondue | `stories/STORY-12-Fondue.png` |
+| J5 ven | Reel | ASMR « Le service » | `reels-final/small-ASMR-01-Service.mp4` |
+| J5 | Post | 10 Avant le service | `posts-final/POST-10-Avant.png` |
+| J6 sam | Post | 11 Lausanne « ×3 clients » | `posts-final/POST-11-Lausanne.png` |
+| J6 | Stories ×2 | 10, 13 | `stories/STORY-10…13.png` |
+| J7 dim | Carrousel | 04 « Cuisine » | `carousels/CAR-04-Cuisine-01..10.png` |
+| J8 lun | Reel | Explicatif 01 « L’accompagnement » | `reels-final/small-EXP-01-Methode.mp4` |
+| J8 | Post | 01 POV | `posts-final/POST-01-POV.png` |
+| J9 mar | Post | 12 Fondue | `posts-final/POST-12-Fondue.png` |
+| J9 | Story | 17 Feu | `stories/STORY-17-Feu.png` |
+| J10 mer | Carrousel | 02 « Une matinée chez vous » | `carousels/CAR-02-Coulisses-01..07.png` |
+| J10 | Reel | Explicatif 03 « Étude de cas » | `reels-final/small-EXP-03-Client.mp4` |
+| J11 jeu | Post | 16 Chef « De bonne adresse à référence » | `posts-final/POST-16-Uniquement.png` |
+| J11 | Story | 16 | `stories/STORY-16-Uniquement.png` |
+| J12 ven | Reel | Manifeste 02 « Ce qu’on construit » | `reels-final/small-MANIFESTE-02-Salle.mp4` |
+| J12 | Post | 17 Feu « Vu 16 fois plus » | `posts-final/POST-17-Feu.png` |
+| J13 sam | Carrousel | 03 « On ne travaille qu’avec des restaurants » | `carousels/CAR-03-Restaurants-01..07.png` |
+| J13 | Post | 19 Rire | `posts-final/POST-19-Rire.png` |
+| J14 dim | Reel | Explicatif 04 « Candidatures » | `reels-final/small-EXP-04-Candidatures.mp4` |
+| J14 | Post | 20 Plateau « Candidatures ouvertes » | `posts-final/POST-20-Plateau.png` |
+| J14 | Stories ×3 | 20, 05, 06 + sticker « Envoyez-nous votre ville » | `stories/STORY-20…05…06.png` |
 
-Épinglés : carrousel Galata · reel Galata hero · face cam 1.
+Semaines 3 et 4 : posts 04, 05, 06, 08, 09, 13, 14, 15, 18 (un jour sur deux), reel Explicatif 02, republication des trois meilleurs reels en TikTok.
+
+Heures : posts 11h30 ou 18h45 · reels 19h · stories 12h et 21h.
 
 ## 4. Légendes
 
-### Carrousel Galata
+Posts : `LEGENDES-POSTS-PHOTO.md`. Carrousels : champ `caption` dans `src/carousel/carousels.ts`. Reels : première phrase du reel + bloc signature :
 ```
-Un restaurant qu’on accompagne, à Fribourg : comment on a rempli une salle en trente jours.
-
-Un soir de tournage, sans rien changer au service. Trente jours plus tard : seize fois plus de portée, douze mille comptes touchés, six fois plus de visites de profil, dix fois plus de clics.
-
-On ne remplit pas un feed. On remplit une salle.
-
-Un seul restaurant par cuisine, par ville. Si votre place est libre, écrivez-nous.
-
-Résultats mesurés sur 30 jours, une partie de la portée provient de contenus sponsorisés.
-```
-
-### Chiffre ×16
-```
-Seize fois plus de portée en trente jours.
-
-Pas des vues pour faire joli : des gens qui cliquent et qui viennent. Galata, Fribourg. Étude de cas complète en épinglé.
-
-Vision. On filme. Vous remplissez.
-```
-
-### Chiffre ×3
-```
-Trois mois. Trois fois plus de restaurants accompagnés.
-
-Zéro publicité pour nous-mêmes. Des salles remplies, et des restaurateurs qui en parlent à d’autres restaurateurs.
-
-Un seul restaurant par cuisine, par ville. La vôtre est peut-être encore libre.
-```
-
-### Chiffre 1
-```
+Vision. On accompagne les restaurants de Suisse romande à devenir des références.
 Un restaurant par cuisine, par ville.
-
-On ne travaille jamais pour votre concurrent direct. Quand une place est prise, elle est prise.
-
-Écrivez-nous pour savoir si la vôtre est libre.
+Votre place est peut-être encore libre : message privé.
 ```
+Hashtags en premier commentaire : `#restaurantsuisse #gastronomiesuisse #fribourg #lausanne #geneve #videomarketing #restaurantmarketing #suisseromande`
 
-### Reels Galata (compte Vision)
-```
-Travail client — Galata, Fribourg.
+## 5. Réponses aux messages privés
 
-Musique live, mezze maison, une salle pleine un vendredi soir. Filmé un soir de service, publié la semaine suivante.
-
-Vision. Le contenu qui remplit.
-```
-
-### Face cam
-Une seule phrase reprise du script + « Écrivez-nous. » Exemple : « Que des restaurants. Pas de mode, pas d’immobilier, pas de tech. Écrivez-nous. »
-
-## 5. Hashtags
-
-Bloc unique de 8, en premier commentaire :
-
-```
-#restaurantsuisse #gastronomiesuisse #fribourg #lausanne #geneve #restaurateur #videomarketing #agencevideo
-```
-
-TikTok : `#restaurant #suisse #fribourg`.
-
-## 6. Règles de compte pendant la semaine de prospection
-
-- Répondre à chaque commentaire dans l’heure, avec une question en retour.
-- DM à chaque restaurant qui like : « Merci, vous êtes où ? On se déplace dans toute la Suisse romande. »
-- Pas de post sans story le même jour.
-- Jamais deux visuels or sur noir à la suite : toujours un visage ou un vrai plan client entre deux.
-- Les chiffres : toujours ceux de l’étude de cas, arrondis, jamais d’autres.
+Voir `SCRIPTS-PROSPECTION.md`.
