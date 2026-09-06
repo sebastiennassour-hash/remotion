@@ -31,6 +31,7 @@ export type ExplainerProps = {
 	audio: string; // public/vo/xx.mp3
 	audioSeconds?: number;
 	cta: string;
+	music?: string; // public/music/xx.m4a, lit de musique discret
 };
 
 export const calculateExplainerMetadata: CalculateMetadataFunction<ExplainerProps> = async ({props}) => {
@@ -50,7 +51,7 @@ const rich = (text: string) =>
 		),
 	);
 
-export const Explainer: React.FC<ExplainerProps> = ({kicker, sentences, clips, audio, audioSeconds = 30, cta}) => {
+export const Explainer: React.FC<ExplainerProps> = ({kicker, sentences, clips, audio, audioSeconds = 30, cta, music}) => {
 	const frame = useCurrentFrame();
 	const {fps, durationInFrames} = useVideoConfig();
 	const voFrames = Math.round(audioSeconds * fps);
@@ -92,6 +93,13 @@ export const Explainer: React.FC<ExplainerProps> = ({kicker, sentences, clips, a
 			</div>
 
 			<Audio src={staticFile(audio)} />
+			{music ? (
+				<Audio
+					src={staticFile(music)}
+					loop
+					volume={(f) => 0.16 * interpolate(f, [0, 30, durationInFrames - 60, durationInFrames], [0, 1, 1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}
+				/>
+			) : null}
 			<Grain opacity={0.05} />
 		</AbsoluteFill>
 	);
@@ -125,7 +133,7 @@ const Caption: React.FC<{text: string; len: number}> = ({text, len}) => {
 	);
 };
 
-const EndCard: React.FC<{cta: string}> = ({cta}) => {
+export const EndCard: React.FC<{cta: string}> = ({cta}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
 	const s = spring({frame, fps, config: {damping: 200, stiffness: 90}});

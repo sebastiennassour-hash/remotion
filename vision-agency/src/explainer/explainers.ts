@@ -7,6 +7,7 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		slug: 'Methode',
 		props: {
 			kicker: 'L’accompagnement',
+			music: 'music/01.m4a',
 			audio: 'vo/01.wav',
 			cta: 'Message privé · Lien en bio',
 			clips: [V(1), V(9), V(15), V(2), V(1)],
@@ -23,6 +24,7 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		slug: 'Pourquoi',
 		props: {
 			kicker: 'Positionnement',
+			music: 'music/01.m4a',
 			audio: 'vo/02.wav',
 			cta: 'Votre ville est-elle libre ?',
 			clips: [V(2), V(15), V(9), V(1)],
@@ -38,6 +40,7 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		slug: 'Client',
 		props: {
 			kicker: 'Étude de cas · Fribourg',
+			music: 'music/01.m4a',
 			audio: 'vo/03.wav',
 			cta: 'Le prochain, c’est vous',
 			clips: [V(2), V(9), V(15), V(1), V(2)],
@@ -54,6 +57,7 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		slug: 'Candidatures',
 		props: {
 			kicker: 'Candidatures',
+			music: 'music/01.m4a',
 			audio: 'vo/04.wav',
 			cta: 'Écrivez-nous · Réponse en 24 h',
 			clips: [V(15), V(1), V(9), V(2), V(15)],
