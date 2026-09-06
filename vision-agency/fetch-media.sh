@@ -10,6 +10,7 @@ fetch() { # json dossier extension
 	done
 	echo "✔ $2 : $(ls public/$2 | wc -l)"
 }
+rm -f public/photos/*.png
 fetch photos.json photos png
 fetch vclips.json vclips mp4
 [ -f vo.json ] && fetch vo.json vo wav || true
