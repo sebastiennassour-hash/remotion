@@ -23,6 +23,10 @@ import {manifestes} from './manifeste/manifestes';
 import {CarouselSlide} from './carousel/Carousel';
 import {carousels} from './carousel/carousels';
 import {visionFilm2} from './vision/film2';
+import {Story} from './story/Story';
+import {GridPreview} from './grid/Grid';
+import {DeckPageView} from './deck/Deck';
+import {deck} from './deck/deck';
 
 loadFonts();
 
@@ -119,6 +123,13 @@ export const Root: React.FC = () => (
 				<Still key={`${c.slug}-${si}`} id={`CAR-${String(ci + 1).padStart(2, '0')}-${c.slug}-${String(si + 1).padStart(2, '0')}`} component={CarouselSlide} width={1080} height={1350} defaultProps={{def: c, i: si}} />
 			)),
 		)}
+		{photoPosts.map((c, i) => (
+			<Still key={`story-${c.slug}`} id={`STORY-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={Story} width={1080} height={1920} defaultProps={{i}} />
+		))}
+		<Still id="GRILLE-Apercu" component={GridPreview} width={1080} height={1440} defaultProps={{order: [2, 1, 6, 9, 10, 0, 11, 15, 16, 18, 13, 4]}} />
+		{deck.map((_, i) => (
+			<Still key={`deck-${i}`} id={`DECK-${String(i + 1).padStart(2, '0')}`} component={DeckPageView} width={1240} height={1754} defaultProps={{pages: deck, i}} />
+		))}
 		{manifestes.map((e, i) => (
 			<Composition
 				key={e.slug}
