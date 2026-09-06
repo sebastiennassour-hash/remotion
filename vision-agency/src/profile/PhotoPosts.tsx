@@ -44,7 +44,7 @@ export const PhotoPostView: React.FC<{post: PhotoPost}> = ({post}) => {
 					<Photo src={post.photo} focus={post.focus} />
 				</div>
 				<Kicker text={post.kicker} />
-				<div style={{position: 'absolute', left: 0, right: 0, top: 1226, bottom: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: SANS, fontWeight: 300, fontSize: 26, letterSpacing: '0.36em', textTransform: 'uppercase', color: IVORY}}>{post.short ?? (post.line ?? '').replace(/\*/g, '').replace(/\n/g, ' ')}</div>
+				<div style={{position: 'absolute', left: 0, right: 0, top: 1226, bottom: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', fontFamily: SANS, fontWeight: 300, fontSize: 26, letterSpacing: '0.36em', textTransform: 'uppercase', color: post.shortGold ? GOLD : IVORY}}>{post.short ?? (post.line ?? '').replace(/\*/g, '').replace(/\n/g, ' ')}</div>
 				<Grain opacity={0.06} />
 			</AbsoluteFill>
 		);
