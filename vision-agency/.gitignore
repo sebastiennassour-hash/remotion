@@ -1,6 +1,8 @@
 node_modules
 .remotion
 public/clips/*.mp4
+public/vclips/*
+public/vo/*
 public/rushes/*
 public/audio/*
 public/photos/*
@@ -8,3 +10,5 @@ out/VR-*.png
 out/GALATA-*
 out/VISION-*
 out/VF-*
+out/EXP-*
+out/POST-*

@@ -14,6 +14,8 @@ import {GridStatement, HighlightCover, gridStatements, highlightCovers} from './
 import {CaseSlide, NumberPost, caseSlides, numberPosts} from './profile/CaseStudy';
 import {ErreursSlide, PourquoiSlide, StatementPost, erreurs, pourquoi, statements} from './profile/Batch2';
 import {PhotoPostComp, photoPosts} from './profile/PhotoPosts';
+import {Explainer, calculateExplainerMetadata} from './explainer/Explainer';
+import {explainers} from './explainer/explainers';
 
 loadFonts();
 
@@ -90,6 +92,19 @@ export const Root: React.FC = () => (
 		))}
 		{photoPosts.map((c, i) => (
 			<Still key={c.slug} id={`POST-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={PhotoPostComp} width={1080} height={1350} defaultProps={{i}} />
+		))}
+		{explainers.map((e, i) => (
+			<Composition
+				key={e.slug}
+				id={`EXP-${String(i + 1).padStart(2, '0')}-${e.slug}`}
+				component={Explainer}
+				durationInFrames={900}
+				fps={30}
+				width={1080}
+				height={1920}
+				defaultProps={e.props}
+				calculateMetadata={calculateExplainerMetadata}
+			/>
 		))}
 		<Composition
 			id="GALATA-BrandFilm"
