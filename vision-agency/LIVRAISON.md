@@ -47,8 +47,8 @@ Plan de publication, bio, légendes et hashtags : `PLAN-INSTAGRAM.md`. Couvertur
 
 Dossier : `deliverables/posts-final/` (20 PNG 1080 × 1350, prêts à poster) + `EXP-04-Candidatures.mp4`.
 Légendes : `LEGENDES-POSTS-PHOTO.md` (générées par `captions-photo.mts` depuis `src/profile/photoPosts.data.ts`).
-Positionnement : Vision n’est pas une agence qui vend des vidéos, on accompagne les restaurants à devenir des références. Message : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées ; cas Galata : 12 000 personnes en 30 jours, portée ×16, visites ×6.
-À confirmer par Nassour avant publication : le +50 % de chiffre d’affaires (constante `X3` dans le fichier de données). Sources : `photos.json` (20 photos, direction « flash direct / pellicule 35 mm »).
+Positionnement : Vision n’est pas une agence qui vend des vidéos, on accompagne les restaurants à devenir des références. Message : ×3 clients en moins de 90 jours, ×3 chiffre d’affaires, plus de 500 000 personnes touchées ; cas Galata : 12 000 personnes en 30 jours, portée ×16, visites ×6.
+À confirmer par Nassour avant publication : le ×3 chiffre d’affaires (constante `X3` dans le fichier de données). Sources : `photos.json` (20 photos, direction « flash direct / pellicule 35 mm »).
 
 Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, badges, enseignes, menus) ne subsiste.
 - Reshoots signature : 03 Table, 07 Geste, 12 Fondue, 17 Feu, 10 Avant le service, 13 Arrivée, 14 Scène 01, 18 Dessert.
@@ -100,6 +100,16 @@ Les anciens reels VF-01..05 et posts VA-* portent encore l’ancien message « u
 ## Variante minimale (6 septembre, nuit)
 
 `deliverables/posts-minimal/` : les 20 posts en version « photo seule + 2 à 4 mots dans une bande noire ». Grille 100 % photo (`deliverables/GRILLE-Minimal.png`). Même légendes que la série principale. À utiliser si la version avec texte à l’image paraît trop chargée.
+
+## Kit ×3 (6 septembre, nuit)
+
+Le chiffre devient le titre : **×3 clients, ×3 chiffre d’affaires, en moins de 90 jours.** Le +50 % est retiré partout.
+- Nouveau template `stat` (chiffre géant or + ligne) : posts 03 et 14. Post 02 « Trois fois plus de clients », 11 « ×3 clients / ×3 chiffre d’affaires », 19 en tête de ligne.
+- Variante minimale : les chiffres passent en or (02, 03, 11, 14, 19).
+- Deck : couverture « ×3 clients. ×3 chiffre d’affaires. En 90 jours. », page résultats et page rentabilité mises à jour.
+- Brand film : premier carton « ×3. » ; manifeste 01 : « ×3 clients. ×3 chiffre d’affaires. 90 jours. » ; explicatifs 01 et 04.
+- Bio : ligne 1 = « ×3 clients. ×3 chiffre d’affaires. En 90 jours. » Épinglés : post 14, brand film, post 03.
+- `SHOTLIST-RESTAURANTS-NORMAUX.md` : 10 scènes pizzeria / kebab / brasserie / café / burger / food truck, à générer dès recharge des crédits (0,25 crédit restant).
 
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
