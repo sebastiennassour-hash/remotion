@@ -1,6 +1,6 @@
 import type {CarouselDef} from './Carousel';
 
-const SIGN = '\n\nVision. On accompagne les restaurants de Suisse romande à devenir des références.\nUn restaurant par cuisine, par ville.\n\nVotre place est peut-être encore libre : message privé.';
+const SIGN = '\n\nVision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.\nUn restaurant par cuisine, par ville.\n\nVotre place est peut-être encore libre : message privé.';
 
 export const carousels: CarouselDef[] = [
 	{
@@ -13,7 +13,7 @@ export const carousels: CarouselDef[] = [
 			{kind: 'photo', photo: '08.png'},
 			{kind: 'photo', photo: '12.png'},
 			{kind: 'photo', photo: '18.png'},
-			{kind: 'text', title: 'Une salle pleine\nun mardi.', sub: 'C’est ça qu’on construit avec les restaurants qu’on accompagne.\n×3 clients en moins de 90 jours.', gold: true},
+			{kind: 'text', title: 'Une salle pleine\nun mardi.', sub: 'C’est ça qu’on construit, mois après mois, avec les restaurants qu’on accompagne.\n×3 clients en moins de 90 jours. Rentable dès le premier mois.', gold: true},
 		],
 		caption: `21h14. Un mardi.\n\nPas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires.${SIGN}`,
 	},
@@ -21,15 +21,15 @@ export const carousels: CarouselDef[] = [
 		slug: 'Coulisses',
 		kicker: 'Coulisses',
 		slides: [
-			{kind: 'text', title: 'Une matinée\nchez vous.', sub: 'Ce que personne ne voit.'},
+			{kind: 'text', title: 'Chez vous.\nChaque semaine.', sub: 'Ce que personne ne voit.'},
 			{kind: 'photo', photo: '13.png'},
 			{kind: 'photo', photo: '20.png'},
 			{kind: 'photo', photo: '09.png'},
 			{kind: 'photo', photo: '14.png'},
 			{kind: 'photo', photo: '01.png'},
-			{kind: 'text', title: 'Vous ne fermez pas.\nVous ne jouez rien.', sub: 'On arrive avant le service, on repart avant le coup de feu. Puis on reste à vos côtés chaque semaine.', gold: true},
+			{kind: 'text', title: 'Vous ne fermez pas.\nVous ne jouez rien.', sub: 'On tourne chez vous régulièrement, on publie, on mesure, on ajuste. Un partenaire sur la durée, pas un prestataire d’un jour.', gold: true},
 		],
-		caption: `Une matinée chez vous.\n\nOn arrive avant le service, on repart avant le coup de feu. Vous ne fermez pas, vous ne jouez rien. Puis chaque semaine : on publie, on mesure, on ajuste, jusqu’à ce que la salle soit pleine.${SIGN}`,
+		caption: `Chez vous. Chaque semaine.\n\nOn ne vient pas une fois. On revient tourner régulièrement, on publie, on mesure, on ajuste. Vous ne fermez pas, vous ne jouez rien. Un vrai partenaire, jusqu’à ce que la salle soit pleine.${SIGN}`,
 	},
 	{
 		slug: 'Restaurants',
@@ -58,7 +58,7 @@ export const carousels: CarouselDef[] = [
 			{kind: 'photo', photo: '34.png'},
 			{kind: 'photo', photo: '37.png'},
 			{kind: 'photo', photo: '38.png', focus: '50% 50%', zoom: 1.95},
-			{kind: 'text', title: 'On filme ça.\nEt ça remplit\nla salle.', sub: 'Le geste, l’ingrédient, la seconde juste avant le service. C’est ce qui donne envie de venir.\n×3 clients en moins de 90 jours.', gold: true},
+			{kind: 'text', title: 'On filme ça.\nEt ça remplit\nla salle.', sub: 'Le geste, l’ingrédient, la seconde juste avant le service. On revient le filmer chaque semaine, parce que c’est ce qui donne envie de venir.\n×3 clients en moins de 90 jours.', gold: true},
 		],
 		caption: `Ce que vos clients ne voient jamais.\n\n9h du matin, en cuisine. Les œufs, la tomate, le poisson sur glace, le beurre qui mousse, la pâte, le fromage qu’on râpe. Tout ce qui donne envie de venir, et que personne ne montre. On le filme, chaque semaine.${SIGN}`,
 	},

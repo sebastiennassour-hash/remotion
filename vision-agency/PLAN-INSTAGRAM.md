@@ -1,6 +1,6 @@
 # Vision — Plan Instagram & TikTok · 14 jours (kit final du 6 septembre)
 
-Un seul message, répété sous vingt angles : **Vision n’est pas une agence qui vend des vidéos. On accompagne les restaurants de Suisse romande à devenir des références. Chez ceux qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.**
+Un seul message, répété sous vingt angles : **Vision n’est pas une agence qui vend des vidéos. On accompagne les restaurants de Suisse romande sur la durée : on revient tourner chez eux chaque semaine, on publie, on mesure, on ajuste, jusqu’à ce qu’ils deviennent des références. Et c’est rentable pour eux dès le premier mois. Chez ceux qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.**
 
 Règles : aucun nom de client, aucun décompte de vidéos, aucun prix en public, aucune voix synthétique. Le CTA est toujours le message privé.
 
@@ -9,7 +9,7 @@ Règles : aucun nom de client, aucun décompte de vidéos, aucun prix en public,
 **Nom** : Vision · Croissance des restaurants
 **Bio** :
 ```
-On accompagne les restaurants à devenir des références
+On accompagne les restaurants, sur la durée, à devenir des références
 ×3 clients en moins de 90 jours · Suisse romande
 Un restaurant par cuisine, par ville
 ↓ Votre place est-elle libre ?
@@ -45,7 +45,7 @@ Alternance : **photo forte → carrousel ou reel → photo avec chiffre**. Jamai
 | J8 | Post | 01 POV | `posts-final/POST-01-POV.png` |
 | J9 mar | Post | 12 Fondue | `posts-final/POST-12-Fondue.png` |
 | J9 | Story | 17 Feu | `stories/STORY-17-Feu.png` |
-| J10 mer | Carrousel | 02 « Une matinée chez vous » | `carousels/CAR-02-Coulisses-01..07.png` |
+| J10 mer | Carrousel | 02 « Chez vous. Chaque semaine. » | `carousels/CAR-02-Coulisses-01..07.png` |
 | J10 | Reel | Explicatif 03 « Étude de cas » | `reels-final/small-EXP-03-Client.mp4` |
 | J11 jeu | Post | 16 Chef « De bonne adresse à référence » | `posts-final/POST-16-Uniquement.png` |
 | J11 | Story | 16 | `stories/STORY-16-Uniquement.png` |
@@ -65,7 +65,7 @@ Heures : posts 11h30 ou 18h45 · reels 19h · stories 12h et 21h.
 
 Posts : `LEGENDES-POSTS-PHOTO.md`. Carrousels : champ `caption` dans `src/carousel/carousels.ts`. Reels : première phrase du reel + bloc signature :
 ```
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 Votre place est peut-être encore libre : message privé.
 ```
