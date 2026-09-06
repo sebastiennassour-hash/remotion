@@ -62,6 +62,7 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 				'Pas par posture : faire grandir un restaurant demande du temps et de la présence.',
 				'Chez ceux qu’on accompagne : *×3 clients*, *+50 % de chiffre d’affaires*, en moins de 90 jours.',
 				'Stratégie, tournages réguliers, diffusion, suivi. *Un seul interlocuteur, chaque semaine, sur la durée.*',
+				'Et vous gardez la main sur tout depuis *votre app* : tournages, vidéos, résultats.',
 				'Si votre ville est libre, on vous le dit en 24 heures. *Vision.*',
 			],
 		},

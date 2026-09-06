@@ -23,7 +23,7 @@ Si la place [cuisine] à [Ville] part, je ne pourrai plus vous la proposer. Un a
 ## 3. Réponse à un message entrant (« C’est quoi exactement ? »)
 
 ```
-En une phrase : on devient votre partenaire sur la durée. On revient tourner chez vous plusieurs fois par mois, sans rien changer à votre service, puis on publie, on mesure et on ajuste chaque semaine jusqu’à ce que la salle soit pleine.
+En une phrase : on devient votre partenaire sur la durée. On revient tourner chez vous plusieurs fois par mois, sans rien changer à votre service, puis on publie, on mesure et on ajuste chaque semaine jusqu’à ce que la salle soit pleine. Vous suivez et validez tout depuis votre app Vision.
 Les restaurants qu’on accompagne font ×3 clients en moins de 90 jours.
 Vous êtes quelle cuisine, dans quelle ville ? Je vous dis tout de suite si la place est libre.
 ```
@@ -59,3 +59,7 @@ Je vous bloque la place jusqu’à [jour]. Je vous envoie le deck : [PDF].
 
 - **« C’est cher. »** → « Chez les restaurants qu’on accompagne : +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois. La vraie question, c’est combien vous coûte une salle à moitié vide le mardi. »
 - **« Une vidéo, ça se fait en une fois. »** → « Une vidéo, oui. Un restaurant qui devient une référence, non. C’est pour ça qu’on revient chaque semaine : tourner, publier, mesurer, ajuster. »
+
+## 8. L’app Vision (à montrer sur le téléphone, 30 secondes)
+
+« Tout ce qu’on fait chez vous, vous le voyez ici : les tournages planifiés, chaque vidéo avant qu’elle sorte, et vos chiffres en direct. Vous validez, vous refusez, vous demandez. On s’occupe de tout, vous gardez la main sur tout. »

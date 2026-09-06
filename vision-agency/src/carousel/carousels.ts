@@ -27,7 +27,7 @@ export const carousels: CarouselDef[] = [
 			{kind: 'photo', photo: '09.png'},
 			{kind: 'photo', photo: '14.png'},
 			{kind: 'photo', photo: '01.png'},
-			{kind: 'text', title: 'Vous ne fermez pas.\nVous ne jouez rien.', sub: 'On tourne chez vous régulièrement, on publie, on mesure, on ajuste. Un partenaire sur la durée, pas un prestataire d’un jour.', gold: true},
+			{kind: 'text', title: 'Vous ne fermez pas.\nVous ne jouez rien.', sub: 'On tourne chez vous régulièrement, on publie, on mesure, on ajuste. Vous validez tout depuis votre app. Un partenaire sur la durée, pas un prestataire d’un jour.', gold: true},
 		],
 		caption: `Chez vous. Chaque semaine.\n\nOn ne vient pas une fois. On revient tourner régulièrement, on publie, on mesure, on ajuste. Vous ne fermez pas, vous ne jouez rien. Un vrai partenaire, jusqu’à ce que la salle soit pleine.${SIGN}`,
 	},

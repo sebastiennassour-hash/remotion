@@ -35,6 +35,7 @@ Alternance : **photo forte → carrousel ou reel → photo avec chiffre**. Jamai
 | J3 mer | Post | 02 Façade « Plus de clients. En 90 jours. » | `posts-final/POST-02-Facade.png` |
 | J3 | Reel | Manifeste 01 | `reels-final/small-MANIFESTE-01-Manifeste.mp4` |
 | J4 jeu | Post | 07 Geste « 500 000 personnes » | `posts-final/POST-07-Geste.png` |
+| J4 | Post | 09 « Vous voyez tout. Vous validez tout. Depuis votre app. » | `posts-final/POST-09-Moniteur.png` |
 | J4 | Story | 12 Fondue | `stories/STORY-12-Fondue.png` |
 | J5 ven | Reel | ASMR « Le service » | `reels-final/small-ASMR-01-Service.mp4` |
 | J5 | Post | 10 Avant le service | `posts-final/POST-10-Avant.png` |
@@ -42,6 +43,7 @@ Alternance : **photo forte → carrousel ou reel → photo avec chiffre**. Jamai
 | J6 | Stories ×2 | 10, 13 | `stories/STORY-10…13.png` |
 | J7 dim | Carrousel | 04 « Cuisine » | `carousels/CAR-04-Cuisine-01..10.png` |
 | J8 lun | Reel | Explicatif 01 « L’accompagnement » | `reels-final/small-EXP-01-Methode.mp4` |
+| J8 | Story | 09 « Votre app » | `stories/STORY-09-Moniteur.png` |
 | J8 | Post | 01 POV | `posts-final/POST-01-POV.png` |
 | J9 mar | Post | 12 Fondue | `posts-final/POST-12-Fondue.png` |
 | J9 | Story | 17 Feu | `stories/STORY-17-Feu.png` |
