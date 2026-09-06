@@ -10,7 +10,7 @@ const IVORY = '#F0EBE0';
 const INK = '#080808';
 const M = 84;
 
-const Frame: React.FC<{kicker: string; index: string; children: React.ReactNode; footer?: string}> = ({kicker, index, children, footer}) => (
+export const Frame: React.FC<{kicker: string; index: string; children: React.ReactNode; footer?: string}> = ({kicker, index, children, footer}) => (
 	<AbsoluteFill style={{background: INK, padding: M, justifyContent: 'space-between'}}>
 		<div style={{display: 'flex', justifyContent: 'space-between', alignItems: 'center', borderBottom: `1px solid rgba(201,168,76,0.35)`, paddingBottom: 26}}>
 			<Wordmark color={IVORY} size={22} />
@@ -25,11 +25,11 @@ const Frame: React.FC<{kicker: string; index: string; children: React.ReactNode;
 	</AbsoluteFill>
 );
 
-const Big: React.FC<{children: React.ReactNode; size?: number}> = ({children, size = 124}) => (
+export const Big: React.FC<{children: React.ReactNode; size?: number}> = ({children, size = 124}) => (
 	<div style={{fontFamily: FRAUNCES, fontWeight: 500, fontSize: size, lineHeight: 0.98, letterSpacing: '-0.03em', color: IVORY}}>{children}</div>
 );
-const Gold: React.FC<{children: React.ReactNode}> = ({children}) => <span style={{color: GOLD, fontStyle: 'italic'}}>{children}</span>;
-const Body: React.FC<{children: React.ReactNode}> = ({children}) => (
+export const Gold: React.FC<{children: React.ReactNode}> = ({children}) => <span style={{color: GOLD, fontStyle: 'italic'}}>{children}</span>;
+export const Body: React.FC<{children: React.ReactNode}> = ({children}) => (
 	<div style={{fontFamily: SANS, fontSize: 32, lineHeight: 1.35, color: 'rgba(240,235,224,0.8)', maxWidth: 800, marginTop: 40}}>{children}</div>
 );
 const Stat: React.FC<{value: string; label: string}> = ({value, label}) => (

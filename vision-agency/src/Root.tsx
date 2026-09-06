@@ -12,6 +12,7 @@ import {galataEdl} from './galata/edl';
 import {visionFilm, visionReels} from './vision/edls';
 import {GridStatement, HighlightCover, gridStatements, highlightCovers} from './profile/Covers';
 import {CaseSlide, NumberPost, caseSlides, numberPosts} from './profile/CaseStudy';
+import {ErreursSlide, PourquoiSlide, StatementPost, erreurs, pourquoi, statements} from './profile/Batch2';
 
 loadFonts();
 
@@ -76,6 +77,15 @@ export const Root: React.FC = () => (
 		))}
 		{numberPosts.map((c, i) => (
 			<Still key={c.slug} id={`CHIFFRE-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={NumberPost} width={1080} height={1350} defaultProps={{i}} />
+		))}
+		{pourquoi.map((c, i) => (
+			<Still key={c.slug} id={`CAS-POURQUOI-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={PourquoiSlide} width={1080} height={1350} defaultProps={{i}} />
+		))}
+		{erreurs.map((c, i) => (
+			<Still key={c.slug} id={`CAS-ERREURS-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={ErreursSlide} width={1080} height={1350} defaultProps={{i}} />
+		))}
+		{statements.map((c, i) => (
+			<Still key={c.slug} id={`DIT-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={StatementPost} width={1080} height={1350} defaultProps={{i}} />
 		))}
 		<Composition
 			id="GALATA-BrandFilm"
