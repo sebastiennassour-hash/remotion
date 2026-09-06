@@ -20,6 +20,9 @@ import {Asmr, asmrDuration} from './asmr/Asmr';
 import {asmrs} from './asmr/asmrs';
 import {Manifeste, manifesteDuration} from './manifeste/Manifeste';
 import {manifestes} from './manifeste/manifestes';
+import {CarouselSlide} from './carousel/Carousel';
+import {carousels} from './carousel/carousels';
+import {visionFilm2} from './vision/film2';
 
 loadFonts();
 
@@ -110,6 +113,12 @@ export const Root: React.FC = () => (
 				calculateMetadata={calculateExplainerMetadata}
 			/>
 		))}
+		<Composition id="VISION-Film2" component={BrandFilm} durationInFrames={brandFilmDuration(visionFilm2, REEL_FPS)} fps={REEL_FPS} width={1080} height={1920} defaultProps={{edl: visionFilm2}} />
+		{carousels.flatMap((c, ci) =>
+			c.slides.map((_, si) => (
+				<Still key={`${c.slug}-${si}`} id={`CAR-${String(ci + 1).padStart(2, '0')}-${c.slug}-${String(si + 1).padStart(2, '0')}`} component={CarouselSlide} width={1080} height={1350} defaultProps={{def: c, i: si}} />
+			)),
+		)}
 		{manifestes.map((e, i) => (
 			<Composition
 				key={e.slug}
