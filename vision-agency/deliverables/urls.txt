@@ -1,2 +1,8 @@
 # nom_fichier url
-posts-v3.zip https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/6881e8c4-ecef-429f-9df4-85d144304c2a.zip
+qa-05.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085432_147c655e-ac79-43f1-a877-844190329622.png
+qa-06.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085432_549bce03-fcc2-4eed-9cc7-dff7da698f46.png
+qa-13.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085432_82a424bf-2d31-4253-9879-25f2a846b081.png
+qa-09.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085316_eaf1e4e7-d2d2-4741-b5aa-36897a9bd456.png
+qa-10.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085316_58e8adea-59ee-428e-bdc9-ef0e5d3c0d2b.png
+qa-14.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085316_c624e6a7-55f2-414b-adc9-315e1805b54c.png
+qa-18.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085316_75df75fd-e0bc-46b5-b1dc-295282bc4358.png
