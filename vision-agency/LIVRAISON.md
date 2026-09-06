@@ -91,7 +91,9 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 
 ## Kit v10 — message « sur la durée » (6 septembre, soir)
 
-Correction de fond demandée par Nassour : Vision ne vient pas une fois. On revient tourner chez le restaurant chaque semaine, on publie, on mesure, on ajuste, sur la durée, et c’est rentable pour lui dès le premier mois (ce qu’on coûte revient en couverts). Toute la copie a été réécrite dans ce sens : 20 posts et légendes, 20 stories, 4 carrousels, 4 reels explicatifs, 2 manifestes, brand film v2, deck (page « Rentabilité » ajoutée), plan, bio, scripts de prospection.
+Correction de fond demandée par Nassour : Vision ne vient pas une fois. On revient tourner chez le restaurant chaque semaine, on publie, on mesure, on ajuste, sur la durée, et c’est rentable pour lui dès le premier mois (ce qu’on coûte revient en couverts). Toute la copie a été réécrite dans ce sens : 20 posts et légendes, 20 stories, 4 carrousels, 4 reels explicatifs, 2 manifestes, brand film v2, deck (pages « Rentabilité » et « Votre app » ajoutées), plan, bio, scripts de prospection.
+
+L’app Vision (le restaurateur voit les tournages planifiés, valide chaque vidéo, suit ses résultats) est intégrée : post 09, story 09, deck p. 06, explicatif 04, carrousel 02, scripts §8.
 
 Les anciens reels VF-01..05 et posts VA-* portent encore l’ancien message « une matinée » : ne pas les publier.
 
