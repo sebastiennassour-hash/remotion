@@ -97,6 +97,10 @@ L’app Vision (le restaurateur voit les tournages planifiés, valide chaque vid
 
 Les anciens reels VF-01..05 et posts VA-* portent encore l’ancien message « une matinée » : ne pas les publier.
 
+## Variante minimale (6 septembre, nuit)
+
+`deliverables/posts-minimal/` : les 20 posts en version « photo seule + 2 à 4 mots dans une bande noire ». Grille 100 % photo (`deliverables/GRILLE-Minimal.png`). Même légendes que la série principale. À utiliser si la version avec texte à l’image paraît trop chargée.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
