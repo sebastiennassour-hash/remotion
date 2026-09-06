@@ -44,14 +44,14 @@ const targets = compositions.filter((c) =>
 
 const started = Date.now();
 for (const composition of targets) {
-	const isStill = composition.id === 'VA-Planche';
+	const isStill = composition.id === 'VA-Planche' || composition.durationInFrames === 1;
 	const png = path.join(out, `${composition.id}${only && STILL_FRAME !== 150 ? `-f${STILL_FRAME}` : ''}.png`);
 
 	await renderStill({
 		composition,
 		serveUrl,
 		output: png,
-		frame: Math.min(STILL_FRAME, composition.durationInFrames - 1),
+		frame: isStill && composition.durationInFrames === 1 ? 0 : Math.min(STILL_FRAME, composition.durationInFrames - 1),
 		imageFormat: 'png',
 		browserExecutable,
 		chromiumOptions: {gl: 'angle'},

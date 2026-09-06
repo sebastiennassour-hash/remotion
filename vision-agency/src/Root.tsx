@@ -1,5 +1,5 @@
 import React from 'react';
-import {Composition} from 'remotion';
+import {Composition, Still} from 'remotion';
 import {loadFonts} from './fonts';
 import {Planche, PLANCHE_HEIGHT, PLANCHE_WIDTH} from './Planche';
 import {Post} from './Post';
@@ -10,6 +10,7 @@ import {DURATION, FPS, HEIGHT, WIDTH} from './theme';
 import {BrandFilm, brandFilmDuration} from './galata/BrandFilm';
 import {galataEdl} from './galata/edl';
 import {visionFilm, visionReels} from './vision/edls';
+import {GridStatement, HighlightCover, gridStatements, highlightCovers} from './profile/Covers';
 
 loadFonts();
 
@@ -62,6 +63,12 @@ export const Root: React.FC = () => (
 				height={1920}
 				defaultProps={{edl: r.edl}}
 			/>
+		))}
+		{highlightCovers.map((c) => (
+			<Still key={c.slug} id={`PROFIL-Story-${c.slug}`} component={HighlightCover} width={1080} height={1920} defaultProps={{word: c.word, glyph: c.glyph}} />
+		))}
+		{gridStatements.map((g, i) => (
+			<Still key={g.slug} id={`PROFIL-Grille-${String(i + 1).padStart(2, '0')}-${g.slug}`} component={GridStatement} width={1080} height={1350} defaultProps={{kicker: g.kicker, text: g.text, index: i + 1}} />
 		))}
 		<Composition
 			id="GALATA-BrandFilm"
