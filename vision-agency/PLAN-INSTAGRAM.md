@@ -1,6 +1,6 @@
 # Vision — Plan Instagram & TikTok (14 jours)
 
-Objectif : un compte qui vend l’agence pendant que Nassour prospecte. Un seul message répété sous dix angles : **Vision est l’agence vidéo exclusivement dédiée aux restaurants suisses, et son contenu remplit des salles.**
+Objectif : un compte qui vend l’agence pendant que Nassour prospecte. Un seul message répété sous vingt angles : **Vision accompagne les restaurants pour aller chercher plus de clients. Chez nos partenaires : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.**
 
 ## 1. Profil
 
@@ -8,10 +8,10 @@ Objectif : un compte qui vend l’agence pendant que Nassour prospecte. Un seul 
 **Bio** (150 caractères max, 4 lignes) :
 
 ```
-Agence vidéo. Restaurants. Suisse.
-On filme votre salle, votre cuisine, votre histoire.
-Un nombre limité de restaurants par mois.
-↓ Candidatures
+Agence vidéo · Restaurants · Suisse romande
+×3 clients en moins de 90 jours
+Un restaurant par cuisine, par ville
+↓ Votre place est-elle libre ?
 ```
 
 **Lien** : page de candidature (formulaire court : nom du restaurant, ville, Instagram, téléphone).
