@@ -15,7 +15,7 @@ export const carousels: CarouselDef[] = [
 			{kind: 'photo', photo: '18.png'},
 			{kind: 'text', title: 'Une salle pleine\nun mardi.', sub: 'C’est ça qu’on construit, mois après mois, avec les restaurants qu’on accompagne.\n×3 clients en moins de 90 jours. Rentable dès le premier mois.', gold: true},
 		],
-		caption: `21h14. Un mardi.\n\nPas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires.${SIGN}`,
+		caption: `21h14. Un mardi.\n\nPas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, ×3 de chiffre d’affaires.${SIGN}`,
 	},
 	{
 		slug: 'Coulisses',

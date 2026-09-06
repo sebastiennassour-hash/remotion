@@ -1,6 +1,6 @@
 # Vision — Plan Instagram & TikTok · 14 jours (kit final du 6 septembre)
 
-Un seul message, répété sous vingt angles : **Vision n’est pas une agence qui vend des vidéos. On accompagne les restaurants de Suisse romande sur la durée : on revient tourner chez eux chaque semaine, on publie, on mesure, on ajuste, jusqu’à ce qu’ils deviennent des références. Et c’est rentable pour eux dès le premier mois. Chez ceux qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.**
+Un seul message, répété sous vingt angles : **Vision n’est pas une agence qui vend des vidéos. On accompagne les restaurants de Suisse romande sur la durée : on revient tourner chez eux chaque semaine, on publie, on mesure, on ajuste, jusqu’à ce qu’ils deviennent des références. Et c’est rentable pour eux dès le premier mois. Chez ceux qu’on accompagne : ×3 clients en moins de 90 jours, ×3 de chiffre d’affaires, plus de 500 000 personnes touchées.**
 
 Règles : aucun nom de client, aucun décompte de vidéos, aucun prix en public, aucune voix synthétique. Le CTA est toujours le message privé.
 

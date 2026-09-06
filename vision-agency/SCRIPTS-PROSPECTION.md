@@ -57,7 +57,7 @@ Je vous bloque la place jusqu’à [jour]. Je vous envoie le deck : [PDF].
 - **« Je veux réfléchir. »** → « Bien sûr. La seule chose qui ne peut pas attendre, c’est la place : un seul [cuisine] à [Ville]. Je vous la garde jusqu’à [jour] ? »
 - **« Les vidéos, ça ne marche pas pour nous. »** → « Une photo de plat ne marche pas. Une soirée qu’on a envie de vivre, à l’heure où les gens choisissent leur table, ça marche. Regardez ça. » (brand film)
 
-- **« C’est cher. »** → « Chez les restaurants qu’on accompagne : +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois. La vraie question, c’est combien vous coûte une salle à moitié vide le mardi. »
+- **« C’est cher. »** → « Chez les restaurants qu’on accompagne : ×3 de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois. La vraie question, c’est combien vous coûte une salle à moitié vide le mardi. »
 - **« Une vidéo, ça se fait en une fois. »** → « Une vidéo, oui. Un restaurant qui devient une référence, non. C’est pour ça qu’on revient chaque semaine : tourner, publier, mesurer, ajuster. »
 
 ## 8. L’app Vision (à montrer sur le téléphone, 30 secondes)

@@ -63,6 +63,20 @@ export const PhotoPostView: React.FC<{post: PhotoPost}> = ({post}) => {
 			</AbsoluteFill>
 		);
 	}
+	if (template === 'stat') {
+		return (
+			<AbsoluteFill style={{background: INK}}>
+				<Photo src={post.photo} focus={post.focus} />
+				<AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0.15) 35%, rgba(0,0,0,0.55) 70%, rgba(0,0,0,0.85) 100%)'}} />
+				<Kicker text={post.kicker} />
+				<div style={{position: 'absolute', left: M, right: M, bottom: 120}}>
+					<div style={{fontFamily: DISPLAY, fontSize: 520, lineHeight: 0.85, color: GOLD, letterSpacing: '-0.02em', textShadow: '0 12px 60px rgba(0,0,0,0.5)'}}>{post.big}</div>
+					<div style={{marginTop: 26, fontFamily: DISPLAY, fontSize: 84, lineHeight: 0.98, color: IVORY, whiteSpace: 'pre-line'}}>{post.line}</div>
+				</div>
+				<Grain opacity={0.06} />
+			</AbsoluteFill>
+		);
+	}
 	if (template === 'bigtype') {
 		return (
 			<AbsoluteFill style={{background: INK}}>
