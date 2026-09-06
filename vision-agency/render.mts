@@ -13,7 +13,7 @@ import {fileURLToPath} from 'node:url';
 
 const here = fileURLToPath(new URL('.', import.meta.url));
 
-const STILL_FRAME = 150;
+const STILL_FRAME = Number(process.argv.find((a) => a.startsWith('--frame='))?.slice(8) ?? 150);
 const args = process.argv.slice(2);
 const stillsOnly = args.includes('--stills-only');
 const only = args.find((a) => a.startsWith('--only='))?.slice(7);
@@ -45,7 +45,7 @@ const targets = compositions.filter((c) =>
 const started = Date.now();
 for (const composition of targets) {
 	const isStill = composition.id === 'VA-Planche';
-	const png = path.join(out, `${composition.id}.png`);
+	const png = path.join(out, `${composition.id}${only && STILL_FRAME !== 150 ? `-f${STILL_FRAME}` : ''}.png`);
 
 	await renderStill({
 		composition,

@@ -9,6 +9,7 @@ import {REEL_FPS, reels} from './reels/reels';
 import {DURATION, FPS, HEIGHT, WIDTH} from './theme';
 import {BrandFilm, brandFilmDuration} from './galata/BrandFilm';
 import {galataEdl} from './galata/edl';
+import {visionFilm, visionReels} from './vision/edls';
 
 loadFonts();
 
@@ -39,6 +40,27 @@ export const Root: React.FC = () => (
 				width={1080}
 				height={1920}
 				defaultProps={{index: i + 1}}
+			/>
+		))}
+		<Composition
+			id="VISION-BrandFilm"
+			component={BrandFilm}
+			durationInFrames={brandFilmDuration(visionFilm, REEL_FPS)}
+			fps={REEL_FPS}
+			width={1080}
+			height={1920}
+			defaultProps={{edl: visionFilm}}
+		/>
+		{visionReels.map((r, i) => (
+			<Composition
+				key={r.slug}
+				id={`VF-${String(i + 1).padStart(2, '0')}-${r.slug}`}
+				component={BrandFilm}
+				durationInFrames={brandFilmDuration(r.edl, REEL_FPS)}
+				fps={REEL_FPS}
+				width={1080}
+				height={1920}
+				defaultProps={{edl: r.edl}}
 			/>
 		))}
 		<Composition

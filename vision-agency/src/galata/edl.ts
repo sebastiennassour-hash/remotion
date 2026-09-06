@@ -1,7 +1,7 @@
 // Liste de montage (EDL) du brand film Galata. Les durées sont en temps (beats)
 // pour que chaque coupe tombe sur la musique.
 export type Shot = {
-	/** Fichier dans public/rushes/ */
+	/** Fichier vidéo, chemin relatif à public/ */
 	src: string;
 	/** Point d'entrée dans le rush, en secondes */
 	from: number;
@@ -12,6 +12,8 @@ export type Shot = {
 	/** Texte affiché pendant le plan */
 	text?: string;
 	textStyle?: 'big' | 'serif' | 'kicker';
+	/** Taille du texte 'big' (défaut 210) */
+	textSize?: number;
 	/** Flash blanc + whoosh à la coupe */
 	flash?: boolean;
 	/** Cadrage : recadrage vertical en % (50 = centre) */
@@ -32,6 +34,10 @@ export type Edl = {
 		beats: number;
 	};
 	kicker: string;
+	/** Couleur d'accent (défaut or Vision) */
+	accent?: string;
+	/** Affiche « un film Vision » sur le carton de fin */
+	signature?: boolean;
 };
 
 // EDL provisoire : à remplacer par la sélection sur les vrais rushs Galata.
@@ -40,16 +46,17 @@ export const galataEdl: Edl = {
 	music: null,
 	musicOffset: 0,
 	kicker: 'Galata — Café-restaurant · Fribourg',
+	signature: true,
 	shots: [
-		{src: '01.mp4', from: 0, beats: 2, text: 'FRIBOURG.', textStyle: 'big', flash: true},
-		{src: '02.mp4', from: 0, beats: 2, text: 'UN SOIR.', textStyle: 'big'},
-		{src: '03.mp4', from: 0, beats: 4, text: 'Mezze faits maison', textStyle: 'serif'},
-		{src: '04.mp4', from: 0, beats: 1},
-		{src: '05.mp4', from: 0, beats: 1},
-		{src: '06.mp4', from: 0, beats: 2, text: 'MUSIQUE', textStyle: 'big', flash: true},
-		{src: '07.mp4', from: 0, beats: 2, text: 'LIVE.', textStyle: 'big'},
-		{src: '08.mp4', from: 0, beats: 4, speed: 0.6, text: 'La table où Fribourg se retrouve.', textStyle: 'serif'},
-		{src: '09.mp4', from: 0, beats: 2, flash: true},
+		{src: 'rushes/01.mp4', from: 0, beats: 2, text: 'FRIBOURG.', textStyle: 'big', flash: true},
+		{src: 'rushes/02.mp4', from: 0, beats: 2, text: 'UN SOIR.', textStyle: 'big'},
+		{src: 'rushes/03.mp4', from: 0, beats: 4, text: 'Mezze faits maison', textStyle: 'serif'},
+		{src: 'rushes/04.mp4', from: 0, beats: 1},
+		{src: 'rushes/05.mp4', from: 0, beats: 1},
+		{src: 'rushes/06.mp4', from: 0, beats: 2, text: 'MUSIQUE', textStyle: 'big', flash: true},
+		{src: 'rushes/07.mp4', from: 0, beats: 2, text: 'LIVE.', textStyle: 'big'},
+		{src: 'rushes/08.mp4', from: 0, beats: 4, speed: 0.6, text: 'La table où Fribourg se retrouve.', textStyle: 'serif'},
+		{src: 'rushes/09.mp4', from: 0, beats: 2, flash: true},
 	],
 	endCard: {
 		title: 'GALATA',

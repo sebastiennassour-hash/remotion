@@ -5,6 +5,7 @@ export const SERIF = 'Instrument Serif';
 export const SANS = 'Inter Tight';
 export const MONO = 'JetBrains Mono';
 export const DISPLAY = 'Anton';
+export const FRAUNCES = 'Fraunces';
 
 export const loadFonts = () =>
 	Promise.all([
@@ -29,6 +30,18 @@ export const loadFonts = () =>
 			family: DISPLAY,
 			url: staticFile('fonts/Anton-Regular.woff2'),
 			weight: '400',
+		}),
+		loadFont({
+			family: FRAUNCES,
+			url: staticFile('fonts/Fraunces-Regular.woff2'),
+			weight: '300 900',
+			style: 'normal',
+		}),
+		loadFont({
+			family: FRAUNCES,
+			url: staticFile('fonts/Fraunces-Italic.woff2'),
+			weight: '300 900',
+			style: 'italic',
 		}),
 		loadFont({
 			family: MONO,

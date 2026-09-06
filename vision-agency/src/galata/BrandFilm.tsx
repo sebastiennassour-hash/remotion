@@ -14,7 +14,7 @@ import {ease} from '../components/anim';
 import {Wordmark} from '../components/Chrome';
 import {Grain} from '../components/Grain';
 import {Headline} from '../components/Headline';
-import {DISPLAY, MONO, SANS, SERIF} from '../fonts';
+import {DISPLAY, FRAUNCES, MONO, SANS} from '../fonts';
 import {galataEdl, type Edl, type Shot} from './edl';
 
 const GOLD = '#C9A84C';
@@ -31,7 +31,7 @@ export const brandFilmDuration = (edl: Edl, fps: number) => {
 	return Math.round((shots + edl.endCard.beats) * b);
 };
 
-const ShotView: React.FC<{shot: Shot; len: number}> = ({shot, len}) => {
+const ShotView: React.FC<{shot: Shot; len: number; accent: string}> = ({shot, len, accent}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
 	const scale = interpolate(frame, [0, len], [1.0, 1.07]);
@@ -41,7 +41,7 @@ const ShotView: React.FC<{shot: Shot; len: number}> = ({shot, len}) => {
 	return (
 		<AbsoluteFill>
 			<OffthreadVideo
-				src={staticFile(`rushes/${shot.src}`)}
+				src={staticFile(shot.src)}
 				startFrom={Math.round(shot.from * fps)}
 				playbackRate={shot.speed ?? 1}
 				muted
@@ -66,7 +66,7 @@ const ShotView: React.FC<{shot: Shot; len: number}> = ({shot, len}) => {
 					<div
 						style={{
 							fontFamily: DISPLAY,
-							fontSize: 210,
+							fontSize: shot.textSize ?? 210,
 							lineHeight: 0.9,
 							color: IVORY,
 							textAlign: 'center',
@@ -87,9 +87,11 @@ const ShotView: React.FC<{shot: Shot; len: number}> = ({shot, len}) => {
 				<div style={{position: 'absolute', left: M, right: M, bottom: 420}}>
 					<Headline
 						text={shot.text}
-						size={92}
+						size={88}
 						color={IVORY}
-						accent={GOLD}
+						accent={accent}
+						fontFamily={FRAUNCES}
+						letterSpacing="-0.02em"
 						delay={2}
 						stagger={2}
 						lineHeight={1.02}
@@ -107,7 +109,7 @@ const ShotView: React.FC<{shot: Shot; len: number}> = ({shot, len}) => {
 						fontSize: 22,
 						letterSpacing: '0.18em',
 						textTransform: 'uppercase',
-						color: GOLD,
+						color: accent,
 						opacity: punch,
 					}}
 				>
@@ -129,14 +131,16 @@ const EndCard: React.FC<{edl: Edl}> = ({edl}) => {
 	const s = spring({frame, fps, config: {damping: 200, stiffness: 90}});
 	const tracking = interpolate(s, [0, 1], [0.35, 0.06]);
 	const c = edl.endCard;
+	const accent = edl.accent ?? GOLD;
 	return (
 		<AbsoluteFill style={{background: INK, justifyContent: 'center', alignItems: 'center'}}>
 			<div
 				style={{
-					fontFamily: DISPLAY,
-					fontSize: 250,
+					fontFamily: FRAUNCES,
+					fontWeight: 700,
+					fontSize: 230,
 					lineHeight: 0.9,
-					color: GOLD,
+					color: accent,
 					letterSpacing: `${tracking}em`,
 					opacity: s,
 					marginLeft: `${tracking}em`,
@@ -147,9 +151,10 @@ const EndCard: React.FC<{edl: Edl}> = ({edl}) => {
 			<div style={{height: 28}} />
 			<div
 				style={{
-					fontFamily: SERIF,
+					fontFamily: FRAUNCES,
 					fontStyle: 'italic',
-					fontSize: 44,
+					fontWeight: 400,
+					fontSize: 42,
 					color: IVORY,
 					opacity: ease(frame, 14, 20, 0, 1),
 				}}
@@ -160,7 +165,7 @@ const EndCard: React.FC<{edl: Edl}> = ({edl}) => {
 			<div style={{display: 'flex', gap: 28, alignItems: 'center'}}>
 				{c.lines.map((l, i) => (
 					<React.Fragment key={l}>
-						{i > 0 ? <div style={{width: 6, height: 6, background: GOLD, transform: 'rotate(45deg)', opacity: ease(frame, 24 + i * 6, 14, 0, 1)}} /> : null}
+						{i > 0 ? <div style={{width: 6, height: 6, background: accent, transform: 'rotate(45deg)', opacity: ease(frame, 24 + i * 6, 14, 0, 1)}} /> : null}
 						<div
 							style={{
 								fontFamily: SANS,
@@ -180,19 +185,20 @@ const EndCard: React.FC<{edl: Edl}> = ({edl}) => {
 			<div
 				style={{
 					padding: '20px 34px',
-					border: `1.5px solid ${GOLD}`,
+					border: `1.5px solid ${accent}`,
 					borderRadius: 999,
 					fontFamily: MONO,
 					fontSize: 22,
 					letterSpacing: '0.16em',
 					textTransform: 'uppercase',
-					color: GOLD,
+					color: accent,
 					opacity: ease(frame, 44, 18, 0, 1),
 					transform: `translateY(${ease(frame, 44, 18, 20, 0)}px)`,
 				}}
 			>
 				{c.cta}
 			</div>
+			{edl.signature ? (
 			<div
 				style={{
 					position: 'absolute',
@@ -208,6 +214,7 @@ const EndCard: React.FC<{edl: Edl}> = ({edl}) => {
 				</div>
 				<Wordmark color={IVORY} size={18} />
 			</div>
+			) : null}
 		</AbsoluteFill>
 	);
 };
@@ -216,6 +223,7 @@ export const BrandFilm: React.FC<{edl?: Edl}> = ({edl = galataEdl}) => {
 	const frame = useCurrentFrame();
 	const {fps, durationInFrames} = useVideoConfig();
 	const b = beatFrames(edl, fps);
+	const accent = edl.accent ?? GOLD;
 	let cursor = 0;
 	const items = edl.shots.map((shot) => {
 		const from = Math.round(cursor);
@@ -235,7 +243,7 @@ export const BrandFilm: React.FC<{edl?: Edl}> = ({edl = galataEdl}) => {
 		<AbsoluteFill style={{background: INK}}>
 			{items.map(({shot, from, len}, i) => (
 				<Sequence key={i} from={from} durationInFrames={len}>
-					<ShotView shot={shot} len={len} />
+					<ShotView shot={shot} len={len} accent={accent} />
 				</Sequence>
 			))}
 			<Sequence from={endFrom} durationInFrames={durationInFrames - endFrom}>
@@ -258,7 +266,7 @@ export const BrandFilm: React.FC<{edl?: Edl}> = ({edl = galataEdl}) => {
 				<div style={{fontFamily: MONO, fontSize: 19, letterSpacing: '0.16em', textTransform: 'uppercase', color: IVORY}}>
 					{edl.kicker}
 				</div>
-				<div style={{width: 8, height: 8, background: GOLD, transform: 'rotate(45deg)'}} />
+				<div style={{width: 8, height: 8, background: accent, transform: 'rotate(45deg)'}} />
 			</div>
 
 			{edl.music ? (
