@@ -1,6 +1,9 @@
 name: vision-fetch-deliverables
 on:
   workflow_dispatch:
+  push:
+    branches: [claude/tout-casser-d7x5c9]
+    paths: ['vision-agency/deliverables/.trigger']
 permissions:
   contents: write
 jobs:
