@@ -43,6 +43,16 @@ Dix reels Instagram 1080 × 1920, 30 images/s, 5 ou 10 secondes, rendus avec Rem
 
 Plan de publication, bio, légendes et hashtags : `PLAN-INSTAGRAM.md`. Couvertures stories et statements grille : `out/PROFIL-*.png`.
 
+## Posts photo — série finale de 20 (6 septembre, v3)
+
+Dossier : `deliverables/posts-v2/` (20 PNG 1080 × 1350, prêts à poster) + `EXP-04-Candidatures.mp4`.
+Légendes : `LEGENDES-POSTS-PHOTO.md`. Sources : `photos.json` (20 photos, direction « flash direct / pellicule 35 mm »).
+
+Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, badges, enseignes, menus) ne subsiste.
+- Reshoots signature : 03 Table, 07 Geste, 12 Fondue, 17 Feu, 10 Avant le service, 13 Arrivée, 14 Scène 01, 18 Dessert.
+- Nettoyage des logos par retouche image (Nano Banana Pro, image de référence) : 05 Chefs, 06 Patron, 09 Moniteur.
+- Reels explicatifs (voix off Elodie, clips Kling) : `deliverables/reels-explicatifs/EXP-01..04`.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
