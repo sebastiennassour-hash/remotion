@@ -60,7 +60,7 @@ On ne vend pas des vidéos. On fait de votre restaurant une adresse qu’on reco
 
 Pas besoin de montrer un visage pour donner envie. Il faut montrer une soirée que les gens ont envie de vivre, à l’heure où ils choisissent leur table.
 
-Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours avec quatre vidéos, une portée multipliée par 16, des visites de profil multipliées par 6.
+Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
 Vision. On accompagne les restaurants de Suisse romande à devenir des références.
 Un restaurant par cuisine, par ville.
@@ -105,7 +105,7 @@ Texte à l’image : Ce geste, personne ne le voyait. On l’a montré à 500 00
 ```
 Ce geste, personne ne le voyait. On l’a montré à 500 000 personnes.
 
-Le service, la découpe, le dressage : tout ce qui se passe à trois mètres des tables et qui donne envie de venir. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours avec quatre vidéos, une portée multipliée par 16, des visites de profil multipliées par 6.
+Le service, la découpe, le dressage : tout ce qui se passe à trois mètres des tables et qui donne envie de venir. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
 Vision. On accompagne les restaurants de Suisse romande à devenir des références.
 Un restaurant par cuisine, par ville.
@@ -115,12 +115,12 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-08 — Pain
 
-Texte à l’image : Quatre vidéos. Trente jours. 12 000 personnes qui ont faim.
+Texte à l’image : Trente jours. 12 000 personnes qui ont faim.
 
 ```
-Quatre vidéos. Trente jours. 12 000 personnes qui ont faim.
+Trente jours. 12 000 personnes qui ont faim.
 
-La différence entre une photo de plat et une vidéo qui fait réserver tient dans un geste. Et la différence entre une vidéo et un restaurant plein tient dans l’accompagnement qui suit. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours avec quatre vidéos, une portée multipliée par 16, des visites de profil multipliées par 6.
+La différence entre une photo de plat et une vidéo qui fait réserver tient dans un geste. Et la différence entre une vidéo et un restaurant plein tient dans l’accompagnement qui suit. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
 Vision. On accompagne les restaurants de Suisse romande à devenir des références.
 Un restaurant par cuisine, par ville.
@@ -212,7 +212,7 @@ Texte à l’image : +50 % DE CHIFFRE D’AFFAIRES.
 ```
 +50 % de chiffre d’affaires.
 
-Scène 01 : le tournage. Scène 02 : la file devant votre porte. Un restaurant devient un plateau, le vôtre, tel qu’il est, un mardi matin. Puis on l’accompagne jusqu’à ce qu’il devienne une référence. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours avec quatre vidéos, une portée multipliée par 16, des visites de profil multipliées par 6.
+Scène 01 : le tournage. Scène 02 : la file devant votre porte. Un restaurant devient un plateau, le vôtre, tel qu’il est, un mardi matin. Puis on l’accompagne jusqu’à ce qu’il devienne une référence. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
 Vision. On accompagne les restaurants de Suisse romande à devenir des références.
 Un restaurant par cuisine, par ville.
@@ -257,7 +257,7 @@ Texte à l’image : Le coup de feu, filmé à 120 images par seconde. Vu 16 foi
 ```
 Le coup de feu, filmé à 120 images par seconde. Vu 16 fois plus.
 
-Ce que vos clients adorent et que personne ne montre. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours avec quatre vidéos, une portée multipliée par 16, des visites de profil multipliées par 6.
+Ce que vos clients adorent et que personne ne montre. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
 Vision. On accompagne les restaurants de Suisse romande à devenir des références.
 Un restaurant par cuisine, par ville.
