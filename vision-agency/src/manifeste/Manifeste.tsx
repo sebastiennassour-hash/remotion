@@ -26,8 +26,8 @@ const Word: React.FC<{text: string; gold?: boolean}> = ({text, gold}) => {
 	const o = interpolate(frame, [0, 10, SHOT - 12, SHOT], [0, 1, 1, 0], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'});
 	const ls = interpolate(frame, [0, SHOT], [0.34, 0.4]);
 	return (
-		<div style={{position: 'absolute', left: 60, right: 60, top: 0, bottom: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', opacity: o}}>
-			<div style={{fontFamily: SANS, fontWeight: 300, fontSize: 30, letterSpacing: `${ls}em`, textTransform: 'uppercase', color: gold ? GOLD : IVORY, textShadow: '0 1px 18px rgba(0,0,0,0.9)', lineHeight: 1.5}}>{text}</div>
+		<div style={{position: 'absolute', left: 0, right: 0, top: 0, bottom: 0, display: 'flex', alignItems: 'center', justifyContent: 'center', textAlign: 'center', opacity: o, background: 'radial-gradient(ellipse 62% 70% at center, rgba(0,0,0,0.62) 0%, rgba(0,0,0,0.35) 45%, rgba(0,0,0,0) 100%)'}}>
+			<div style={{padding: '0 70px', fontFamily: SANS, fontWeight: 400, fontSize: 34, letterSpacing: `${ls}em`, textTransform: 'uppercase', color: gold ? GOLD : IVORY, textShadow: '0 2px 6px rgba(0,0,0,0.95), 0 0 28px rgba(0,0,0,0.9)', lineHeight: 1.5}}>{text}</div>
 		</div>
 	);
 };
