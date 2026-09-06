@@ -13,22 +13,24 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
-      - name: Télécharger les rendus depuis le CDN
+      - name: Télécharger les livrables listés dans urls.txt
         run: |
           set -e
-          mkdir -p vision-agency/deliverables
-          B="https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2"
-          curl -fsSL -o vision-agency/deliverables/VISION-BrandFilm.mp4 "$B/df0ee827-ab0c-4395-8532-7d870288990e.mp4"
-          curl -fsSL -o vision-agency/deliverables/VF-01-Exclusif.mp4 "$B/3e03e886-86e8-488b-aa37-6d6bc2413415.mp4"
-          curl -fsSL -o vision-agency/deliverables/VF-02-Coulisses.mp4 "$B/e99893f1-eb35-4d0b-8a3f-17650d475f59.mp4"
-          curl -fsSL -o vision-agency/deliverables/VF-03-Suisse.mp4 "$B/6efff70f-cb1d-44d4-8284-08febc9d1d4a.mp4"
-          curl -fsSL -o vision-agency/deliverables/VF-04-Spectacle.mp4 "$B/d854cd88-96e8-4a5d-bb48-caa36c0894ad.mp4"
-          curl -fsSL -o vision-agency/deliverables/VF-05-Places.mp4 "$B/57ccfb89-76d2-43b0-81ae-2e417b57d2cb.mp4"
-          ls -la vision-agency/deliverables
+          cd vision-agency/deliverables
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            case "$name" in \#*) continue;; esac
+            echo "→ $name"
+            curl -fsSL -o "$name" "$url"
+            case "$name" in
+              *.zip) d="${name%.zip}"; mkdir -p "$d"; unzip -q -o "$name" -d "$d"; rm -f "$name";;
+            esac
+          done < urls.txt
+          ls -la
       - name: Commit
         run: |
           git config user.name "vision-bot"
           git config user.email "noreply@visionmedia-agency.com"
           git add vision-agency/deliverables
-          git commit -m "vision-agency: rendus finaux (brand film + 5 reels)" || echo "rien à committer"
+          git commit -m "vision-agency: livrables rendus" || echo "rien à committer"
           git push
