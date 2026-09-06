@@ -73,6 +73,15 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 - Étude de cas : aucun nom de client, aucun décompte de vidéos.
 - Rendus : `deliverables/posts-final/` et `deliverables/reels-final/`.
 
+## Kit v8 — carrousels, brand film v2, cuisine (6 septembre, soir)
+
+- 4 carrousels prêts à publier dans `deliverables/carousels/` : 01 « 21h14. Un mardi. », 02 « Une matinée chez vous », 03 « On ne travaille qu’avec des restaurants », 04 « Cuisine » (8 photos ingrédients/cuisine, recadrées dans Remotion pour exclure tout lettrage). Légendes dans `src/carousel/carousels.ts`.
+- Brand film v2 `VISION-Film2` : monté au tempo (72 bpm) sur la musique 03, plans issus des photos, mots du manifeste, carton fin. `deliverables/reels-final/small-VISION-Film2.mp4`.
+- 8 photos cuisine (`photos.json` 31–38) : œufs, tomate, poisson, beurre, pâte, légumes du marché, fromage, sauce.
+- 4 plans « push-in » cinéma générés (03, 07, 17, 19), non montés faute de crédits pour le contrôle.
+
+**Bloqué** : crédits Higgsfield épuisés (0,25 crédit restant, plan pro). Aucune génération d’image, de retouche, de vidéo ou de musique n’est possible tant que le compte n’est pas rechargé. Le rendu Remotion et la livraison continuent de fonctionner.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
