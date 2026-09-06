@@ -53,7 +53,7 @@ Positionnement : Vision n’est pas une agence qui vend des vidéos, on accompag
 Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, badges, enseignes, menus) ne subsiste.
 - Reshoots signature : 03 Table, 07 Geste, 12 Fondue, 17 Feu, 10 Avant le service, 13 Arrivée, 14 Scène 01, 18 Dessert.
 - Nettoyage des logos par retouche image (Nano Banana Pro, image de référence) : 05 Chefs, 06 Patron, 09 Moniteur.
-- Reels explicatifs (voix off Elodie, clips Kling), réécrits sur le positionnement accompagnement : `deliverables/kit-v5/small-EXP-01..04.mp4`.
+- Reels explicatifs (voix off Elodie, clips Kling), réécrits sur le positionnement accompagnement : `deliverables/reels-explicatifs/small-EXP-01..04.mp4`.
 - Reshoots signature supplémentaires : 01 Coulisses, 15 Serveur, 16 Chef fin de service (logos retirés par retouche).
 
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
