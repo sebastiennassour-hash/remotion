@@ -3,6 +3,7 @@ node_modules
 public/clips/*.mp4
 public/rushes/*
 public/audio/*
+public/photos/*
 out/VR-*.png
 out/GALATA-*
 out/VISION-*

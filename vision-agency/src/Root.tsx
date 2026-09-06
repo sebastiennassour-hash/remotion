@@ -13,6 +13,7 @@ import {visionFilm, visionReels} from './vision/edls';
 import {GridStatement, HighlightCover, gridStatements, highlightCovers} from './profile/Covers';
 import {CaseSlide, NumberPost, caseSlides, numberPosts} from './profile/CaseStudy';
 import {ErreursSlide, PourquoiSlide, StatementPost, erreurs, pourquoi, statements} from './profile/Batch2';
+import {PhotoPostComp, photoPosts} from './profile/PhotoPosts';
 
 loadFonts();
 
@@ -86,6 +87,9 @@ export const Root: React.FC = () => (
 		))}
 		{statements.map((c, i) => (
 			<Still key={c.slug} id={`DIT-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={StatementPost} width={1080} height={1350} defaultProps={{i}} />
+		))}
+		{photoPosts.map((c, i) => (
+			<Still key={c.slug} id={`POST-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={PhotoPostComp} width={1080} height={1350} defaultProps={{i}} />
 		))}
 		<Composition
 			id="GALATA-BrandFilm"
