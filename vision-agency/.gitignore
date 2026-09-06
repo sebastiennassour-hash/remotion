@@ -1,4 +1,7 @@
 node_modules
 .remotion
 public/clips/*.mp4
+public/rushes/*
+public/audio/*
 out/VR-*.png
+out/GALATA-*

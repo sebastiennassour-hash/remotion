@@ -7,6 +7,8 @@ import {posts} from './posts';
 import {Reel, reelDuration} from './reels/Reel';
 import {REEL_FPS, reels} from './reels/reels';
 import {DURATION, FPS, HEIGHT, WIDTH} from './theme';
+import {BrandFilm, brandFilmDuration} from './galata/BrandFilm';
+import {galataEdl} from './galata/edl';
 
 loadFonts();
 
@@ -39,6 +41,14 @@ export const Root: React.FC = () => (
 				defaultProps={{index: i + 1}}
 			/>
 		))}
+		<Composition
+			id="GALATA-BrandFilm"
+			component={BrandFilm}
+			durationInFrames={brandFilmDuration(galataEdl, REEL_FPS)}
+			fps={REEL_FPS}
+			width={1080}
+			height={1920}
+		/>
 		<Composition
 			id="VA-Planche"
 			component={Planche}
