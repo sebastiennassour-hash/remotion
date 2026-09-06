@@ -71,7 +71,7 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 - Nouveau format « Manifeste » (`MANIFESTE-01`, `MANIFESTE-02`) : bande cinéma 2.39:1 centrée sur noir, un mot fin par plan, musique, carton Vision.
 - Reel ASMR : steak et fondue remplacés par les plans coup de feu et fondue issus des photos.
 - Étude de cas : aucun nom de client, aucun décompte de vidéos.
-- Rendus : `deliverables/kit-v7/`.
+- Rendus : `deliverables/posts-final/` et `deliverables/reels-final/`.
 
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
