@@ -11,7 +11,7 @@ const INK = '#080808';
 const M = 64;
 
 export type Slide =
-	| {kind: 'photo'; photo: string; focus?: string}
+	| {kind: 'photo'; photo: string; focus?: string; zoom?: number}
 	| {kind: 'text'; title: string; sub?: string; gold?: boolean};
 
 export type CarouselDef = {slug: string; kicker: string; slides: Slide[]; caption: string};
@@ -31,7 +31,7 @@ export const CarouselSlide: React.FC<{def: CarouselDef; i: number}> = ({def, i})
 	if (s.kind === 'photo') {
 		return (
 			<AbsoluteFill style={{background: INK}}>
-				<Img src={staticFile(`photos/${s.photo}`)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: s.focus ?? '50% 50%'}} />
+				<Img src={staticFile(`photos/${s.photo}`)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: s.focus ?? '50% 50%', transform: `scale(${s.zoom ?? 1})`, transformOrigin: s.focus ?? '50% 50%'}} />
 				<AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,0.35) 0%, rgba(0,0,0,0) 22%)'}} />
 				<Top kicker={def.kicker} i={i} n={n} />
 				<Grain opacity={0.06} />
