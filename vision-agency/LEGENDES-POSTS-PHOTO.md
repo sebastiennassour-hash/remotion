@@ -9,9 +9,9 @@ Texte à l’image : POV : votre restaurant devient celui dont tout le monde par
 ```
 POV : votre restaurant devient celui dont tout le monde parle.
 
-On ne vend pas des vidéos. On accompagne votre restaurant, semaine après semaine, jusqu’à ce que la salle soit pleine et que les gens le recommandent. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -19,16 +19,16 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-02 — Facade
 
-Texte à l’image : PLUS DE CLIENTS. EN 90 JOURS.
+Texte à l’image : PLUS DE CLIENTS. MOIS APRÈS MOIS.
 
 ```
-Plus de clients. En 90 jours.
+Plus de clients. Mois après mois.
 
 À 19h, les gens décident où ils vont manger, téléphone en main. Un bon restaurant que personne ne connaît reste un bon restaurant vide.
 
-Notre travail, c’est l’inverse. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+Notre travail, c’est l’inverse, et on le fait avec vous sur la durée. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -36,16 +36,16 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-03 — Table
 
-Texte à l’image : Une salle pleine un mardi. C’est là qu’on vous emmène, en moins de 90 jours.
+Texte à l’image : Une salle pleine un mardi. C’est ce qu’on construit avec vous, semaine après semaine.
 
 ```
-Une salle pleine un mardi. C’est là qu’on vous emmène, en moins de 90 jours.
+Une salle pleine un mardi. C’est ce qu’on construit avec vous, semaine après semaine.
 
-Pas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+Pas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Comment ? On travaille avec vous chaque semaine : on filme votre vrai service, on publie, on mesure, on ajuste.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -58,11 +58,11 @@ Texte à l’image : On ne vend pas des vidéos. On fait de votre restaurant une
 ```
 On ne vend pas des vidéos. On fait de votre restaurant une adresse qu’on recommande.
 
-Pas besoin de montrer un visage pour donner envie. Il faut montrer une soirée que les gens ont envie de vivre, à l’heure où ils choisissent leur table.
+Pas besoin de montrer un visage pour donner envie. Il faut montrer une soirée que les gens ont envie de vivre, à l’heure où ils choisissent leur table. Et le montrer chaque semaine, pas une fois.
 
 Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -75,9 +75,9 @@ Texte à l’image : Deux chefs. Une ville. Un seul qu’on accompagne.
 ```
 Deux chefs. Une ville. Un seul qu’on accompagne.
 
-On n’accompagne jamais deux restaurants de la même cuisine dans la même ville. Votre croissance, votre quartier, vos clients : on ne les partage avec personne. Le premier qui signe garde la place.
+On n’accompagne jamais deux restaurants de la même cuisine dans la même ville. Votre croissance, votre quartier, vos clients : on ne les partage avec personne, et on reste à vos côtés sur la durée. Le premier qui signe garde la place.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -85,14 +85,14 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-06 — Patron
 
-Texte à l’image : Trente ans de métier. Il méritait qu’on le fasse connaître.
+Texte à l’image : Trente ans de métier. Il méritait un partenaire sur la durée.
 
 ```
-Trente ans de métier. Il méritait qu’on le fasse connaître.
+Trente ans de métier. Il méritait un partenaire sur la durée.
 
-Chaque restaurant a une histoire que ses futurs clients ne connaissent pas encore. La raconter, la montrer, la répéter : c’est ce qui fait passer une bonne adresse au rang de référence. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+Chaque restaurant a une histoire que ses futurs clients ne connaissent pas encore. La raconter une fois ne suffit pas : on revient, on la montre semaine après semaine, jusqu’à ce que l’adresse devienne une référence. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -105,9 +105,9 @@ Texte à l’image : Ce geste, personne ne le voyait. On l’a montré à 500 00
 ```
 Ce geste, personne ne le voyait. On l’a montré à 500 000 personnes.
 
-Le service, la découpe, le dressage : tout ce qui se passe à trois mètres des tables et qui donne envie de venir. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
+Le service, la découpe, le dressage : tout ce qui se passe à trois mètres des tables et qui donne envie de venir. On revient le filmer régulièrement, parce qu’un restaurant change chaque semaine. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -120,9 +120,9 @@ Texte à l’image : Trente jours. 12 000 personnes qui ont faim.
 ```
 Trente jours. 12 000 personnes qui ont faim.
 
-La différence entre une photo de plat et une vidéo qui fait réserver tient dans un geste. Et la différence entre une vidéo et un restaurant plein tient dans l’accompagnement qui suit. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
+La différence entre une photo de plat et une vidéo qui fait réserver tient dans un geste. Et la différence entre une vidéo et un restaurant plein tient dans l’accompagnement qui suit, mois après mois. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -130,16 +130,16 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-09 — Moniteur
 
-Texte à l’image : Coulisses · Prise 3
+Texte à l’image : Vous voyez tout. Vous validez tout. Depuis votre app.
 
 ```
-Prise 3.
+Vous voyez tout. Vous validez tout. Depuis votre app.
 
-Ce que voit notre moniteur pendant que vous cuisinez. Vous ne changez rien à votre service : on s’adapte à vous, pas l’inverse.
+Les tournages planifiés chez vous, chaque vidéo avant publication, vos chiffres en direct. Vous ne changez rien à votre service, on s’adapte à vous, et vous gardez la main sur tout.
 
-Une matinée chez vous, puis un accompagnement chaque semaine jusqu’à ce que la salle soit pleine. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -147,14 +147,14 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-10 — Avant
 
-Texte à l’image : Avant le service, on travaille avec vous. Après, vous refusez du monde.
+Texte à l’image : On revient chaque semaine. Jusqu’à ce que vous refusiez du monde.
 
 ```
-Avant le service, on travaille avec vous. Après, vous refusez du monde.
+On revient chaque semaine. Jusqu’à ce que vous refusiez du monde.
 
-La salle vide, la lumière qui entre, les tables prêtes. C’est là qu’on commence, pour que le soir vous soyez pleins. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+La salle vide, la lumière qui entre, les tables prêtes. C’est là qu’on commence. Puis on revient tourner, on publie, on mesure, on ajuste, pour que le soir vous soyez pleins. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -167,9 +167,9 @@ Texte à l’image : ×3 CLIENTS. MOINS DE 90 JOURS.
 ```
 ×3 clients. Moins de 90 jours.
 
-C’est ce que les restaurants qu’on accompagne constatent en salle, pas sur un tableau de bord. +50 % de chiffre d’affaires, plus de 500 000 personnes touchées. Le seul chiffre qui compte se lit dans votre salle le vendredi soir.
+C’est ce que les restaurants qu’on accompagne constatent en salle, pas sur un tableau de bord. +50 % de chiffre d’affaires : ce qu’on coûte revient en couverts dès le premier mois, et on continue mois après mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -182,9 +182,9 @@ Texte à l’image : On connaît la seconde où le fromage file. Et celle où le
 ```
 On connaît la seconde où le fromage file. Et celle où le client réserve.
 
-Un plat se filme comme un visage : il faut connaître le geste avant de lancer la caméra. On ne travaille qu’avec des restaurants, depuis le début. C’est ce qui nous permet de les faire grandir.
+Un plat se filme comme un visage : il faut connaître le geste avant de lancer la caméra. On ne travaille qu’avec des restaurants, depuis le début, et on reste avec eux sur la durée.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -192,14 +192,14 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-13 — Arrivee
 
-Texte à l’image : On arrive avant le coup de feu. On reste jusqu’à ce que la salle soit pleine.
+Texte à l’image : On ne vient pas une fois. On revient.
 
 ```
-On arrive avant le coup de feu. On reste jusqu’à ce que la salle soit pleine.
+On ne vient pas une fois. On revient.
 
-Une équipe légère, une matinée, votre restaurant dans sa meilleure lumière. Puis un suivi chaque semaine. Vous ne fermez pas, vous ne jouez rien. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+Une équipe légère, chez vous, plusieurs fois par mois. Avant le service, pendant, après. Vous ne fermez pas, vous ne jouez rien. On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -212,9 +212,9 @@ Texte à l’image : +50 % DE CHIFFRE D’AFFAIRES.
 ```
 +50 % de chiffre d’affaires.
 
-Scène 01 : le tournage. Scène 02 : la file devant votre porte. Un restaurant devient un plateau, le vôtre, tel qu’il est, un mardi matin. Puis on l’accompagne jusqu’à ce qu’il devienne une référence. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
+C’est ce que constatent les restaurants qu’on accompagne. Ce qu’on coûte revient en couverts dès le premier mois, le reste est pour vous. Un restaurant devient un plateau, le vôtre, tel qu’il est, et on y revient chaque semaine. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -222,14 +222,14 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-15 — Serveur
 
-Texte à l’image : — Vous cuisinez. On s’occupe de faire venir le monde.
+Texte à l’image : — Vous cuisinez. On s’occupe du reste, tous les mois.
 
 ```
-Vous cuisinez. On s’occupe de faire venir le monde.
+Vous cuisinez. On s’occupe du reste, tous les mois.
 
-Stratégie, tournage, diffusion, suivi des résultats chaque semaine : un seul interlocuteur, de l’idée à la salle pleine. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+Stratégie, tournages réguliers, diffusion, suivi des résultats chaque semaine : un seul interlocuteur, sur la durée, de l’idée à la salle pleine. Et tout est visible dans votre app : ce qui est prévu, ce qui est publié, ce que ça rapporte. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -237,14 +237,14 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-16 — Uniquement
 
-Texte à l’image : De bonne adresse à référence. C’est le chemin qu’on fait avec vous.
+Texte à l’image : De bonne adresse à référence. C’est un chemin, on le fait avec vous.
 
 ```
-De bonne adresse à référence.
+De bonne adresse à référence. C’est un chemin, on le fait avec vous.
 
-On ne travaille qu’avec des restaurants. Un seul métier, appris de l’intérieur, et une seule promesse : faire de votre restaurant celui dont on parle dans votre ville. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+On ne travaille qu’avec des restaurants. Un seul métier, appris de l’intérieur, et une seule promesse : faire grandir votre restaurant, mois après mois, jusqu’à ce qu’on en parle dans toute la ville. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -257,9 +257,9 @@ Texte à l’image : Le coup de feu, filmé à 120 images par seconde. Vu 16 foi
 ```
 Le coup de feu, filmé à 120 images par seconde. Vu 16 fois plus.
 
-Ce que vos clients adorent et que personne ne montre. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
+Ce que vos clients adorent et que personne ne montre. Nous, on revient le filmer chaque semaine. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -272,9 +272,9 @@ Texte à l’image : Le dessert n’attend pas. Vos futurs clients non plus.
 ```
 Le dessert n’attend pas. Vos futurs clients non plus.
 
-On connaît la seconde où la croûte craque, et l’heure où les gens réservent. C’est notre métier d’en faire une habitude dans votre salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+On connaît la seconde où la croûte craque, et l’heure où les gens réservent. Notre métier, c’est d’en faire une habitude dans votre salle, semaine après semaine. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -287,9 +287,9 @@ Texte à l’image : Ce qu’on construit avec vous : des soirées comme ça, to
 ```
 Ce qu’on construit avec vous : des soirées comme ça, toutes les semaines.
 
-Pas des vidéos. Une salle pleine, des habitués qui reviennent, des nouveaux qui découvrent, une équipe fière. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+Pas des vidéos. Une salle pleine, des habitués qui reviennent, des nouveaux qui découvrent, une équipe fière. Et un partenaire qui revient chaque semaine pour que ça dure. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
@@ -297,16 +297,16 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-20 — Plateau
 
-Texte à l’image : On ne vous livre pas des vidéos. On vous accompagne jusqu’à trois fois plus de clients.
+Texte à l’image : On ne vous livre pas des vidéos. On est chez vous tous les mois, jusqu’à ×3 clients.
 
 ```
-On ne vous livre pas des vidéos. On vous accompagne jusqu’à trois fois plus de clients.
+On ne vous livre pas des vidéos. On est chez vous tous les mois, jusqu’à ×3 clients.
 
-On arrive avant le service, on repart avant le coup de feu, et on reste à vos côtés chaque semaine. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
 
 Un seul restaurant par cuisine, par ville. Candidatures ouvertes.
 
-Vision. On accompagne les restaurants de Suisse romande à devenir des références.
+Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
 
 Votre place est peut-être encore libre : message privé.
