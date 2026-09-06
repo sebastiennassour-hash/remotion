@@ -73,7 +73,8 @@ export const Explainer: React.FC<ExplainerProps> = ({kicker, sentences, clips, a
 						<Loop durationInFrames={150}>
 							<OffthreadVideo
 								src={staticFile(clips[i % clips.length])}
-								muted
+								muted={Boolean(audio)}
+								volume={audio ? 0 : 0.55}
 								style={{width: '100%', height: '100%', objectFit: 'cover', transform: `scale(${1.02 + (i % 2) * 0.04})`}}
 							/>
 						</Loop>
