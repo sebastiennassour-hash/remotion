@@ -15,4 +15,6 @@ fetch photos.json photos png
 fetch vclips.json vclips mp4
 rm -f public/vo/*.wav
 [ -f vo.json ] && fetch vo.json vo wav || true
+[ -f music.json ] && fetch music.json music m4a || true
+[ -f aclips.json ] && fetch aclips.json asmr mp4 || true
 true

@@ -16,6 +16,8 @@ import {ErreursSlide, PourquoiSlide, StatementPost, erreurs, pourquoi, statement
 import {PhotoPostComp, photoPosts} from './profile/PhotoPosts';
 import {Explainer, calculateExplainerMetadata} from './explainer/Explainer';
 import {explainers} from './explainer/explainers';
+import {Asmr, asmrDuration} from './asmr/Asmr';
+import {asmrs} from './asmr/asmrs';
 
 loadFonts();
 
@@ -104,6 +106,18 @@ export const Root: React.FC = () => (
 				height={1920}
 				defaultProps={e.props}
 				calculateMetadata={calculateExplainerMetadata}
+			/>
+		))}
+		{asmrs.map((e, i) => (
+			<Composition
+				key={e.slug}
+				id={`ASMR-${String(i + 1).padStart(2, '0')}-${e.slug}`}
+				component={Asmr}
+				durationInFrames={asmrDuration(e.props.clips.length)}
+				fps={30}
+				width={1080}
+				height={1920}
+				defaultProps={e.props}
 			/>
 		))}
 		<Composition
