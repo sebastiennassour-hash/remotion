@@ -56,6 +56,13 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 - Reels explicatifs (voix off Elodie, clips Kling), réécrits sur le positionnement accompagnement : `deliverables/reels-explicatifs/small-EXP-01..04.mp4`.
 - Reshoots signature supplémentaires : 01 Coulisses, 15 Serveur, 16 Chef fin de service (logos retirés par retouche).
 
+## Reels v6 — son et émotion (6 septembre)
+
+- Musique générée (Sonilo) : `music.json` → `public/music/` : 01 score intime piano/cordes (reels explicatifs, lit à 16 %), 02 nappe ambiante (reel ASMR, 12 %), 03 score brand film 45 s.
+- Reel ASMR `ASMR-01-Service` : 4 plans Kling 3.0 pro avec son natif (`aclips.json` → `public/asmr/`) : steak au beurre, ciselage d’herbes, fondue, vin servi. Une phrase à la fin, carton Vision.
+- Étude de cas : le client n’est plus nommé (« un restaurant qu’on accompagne, à Fribourg »).
+- Rendus : `deliverables/reels-v6/`.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
