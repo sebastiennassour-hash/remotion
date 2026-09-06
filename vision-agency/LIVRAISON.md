@@ -63,6 +63,16 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 - Étude de cas : le client n’est plus nommé (« un restaurant qu’on accompagne, à Fribourg »).
 - Rendus : `deliverables/reels-v6/`.
 
+## Kit v7 — direction artistique unifiée (6 septembre, soir)
+
+- Photos : 10 reshoots dans une seule DA (flash direct, 35 mm Portra 800, vraies personnes, Suisse romande, zéro lettrage) : 01, 02, 04, 05, 06, 08, 09, 11, 18, 20. Logos et enseignes retirés par retouche.
+- Plans vidéo : 8 plans Kling 3.0 pro générés à partir des photos validées (image → vidéo, micro-mouvements « live photo », son natif) : `vclips.json` 01, 03, 07, 10, 12, 13, 17, 19. Les anciens plans texte → vidéo sont abandonnés.
+- Reels explicatifs : plus aucune voix synthétique. Texte + musique + son des plans. Scripts voix dans `SCRIPTS-VOIX-OFF.md` pour un enregistrement par Nassour.
+- Nouveau format « Manifeste » (`MANIFESTE-01`, `MANIFESTE-02`) : bande cinéma 2.39:1 centrée sur noir, un mot fin par plan, musique, carton Vision.
+- Reel ASMR : steak et fondue remplacés par les plans coup de feu et fondue issus des photos.
+- Étude de cas : aucun nom de client, aucun décompte de vidéos.
+- Rendus : `deliverables/kit-v7/`.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
