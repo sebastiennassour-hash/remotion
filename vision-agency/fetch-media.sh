@@ -13,5 +13,6 @@ fetch() { # json dossier extension
 rm -f public/photos/*.png
 fetch photos.json photos png
 fetch vclips.json vclips mp4
+rm -f public/vo/*.wav
 [ -f vo.json ] && fetch vo.json vo wav || true
 true
