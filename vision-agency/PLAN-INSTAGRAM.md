@@ -23,72 +23,98 @@ Un nombre limité de restaurants par mois.
 
 Alternance stricte pour un profil lisible : **film client → reel Vision → statement or/noir**. Jamais deux visuels typographiques côte à côte. Les statements or/noir (`out/PROFIL-Grille-*.png`) servent de respirations.
 
-## 3. Calendrier
+## 3. Calendrier (version réelle, zéro IA visible)
 
-Heure de publication : 11h30 ou 18h30 (heure suisse). TikTok : même vidéo, légende raccourcie à une phrase, 3 hashtags.
+Règle absolue : rien de généré à l’image. Trois piliers seulement : **face cam Nassour**, **travail client Galata (vrais rushs)**, **statements et chiffres or sur noir**. Les films IA sont retirés de la grille.
 
 | Jour | Format | Contenu | Fichier |
 | --- | --- | --- | --- |
-| J1 lun | Reel épinglé | Brand film Vision, 20 s | `VISION-BrandFilm.mp4` |
-| J1 | Story ×3 | Coulisses du montage, sondage « Votre resto est sur Reels ? » | captures Studio |
-| J2 mar | Reel | Galata Fribourg (dessert, reel déjà publié) reposté avec légende « Travail client » | rush Galata |
-| J3 mer | Post | Grille 01 Manifeste | `PROFIL-Grille-01-Manifeste.png` |
-| J4 jeu | Reel | Exclusif | `VF-01-Exclusif.mp4` |
-| J5 ven | Reel | Coulisses | `VF-02-Coulisses.mp4` |
-| J5 | Story | Face cam Nassour 30 s : « Pourquoi que des restaurants » | téléphone |
-| J6 sam | Post | Grille 02 Exclusif | `PROFIL-Grille-02-Exclusif.png` |
-| J7 dim | Repos | Stories seulement : coulisses d’un service Galata | téléphone |
-| J8 lun | Reel | Suisse | `VF-03-Suisse.mp4` |
-| J9 mar | Reel | Galata : interview Betül, extrait 15 s sous-titré | rush Galata |
-| J10 mer | Reel | Spectacle | `VF-04-Spectacle.mp4` |
-| J11 jeu | Post | Grille 03 Places | `PROFIL-Grille-03-Places.png` |
-| J12 ven | Reel | Places (candidatures) | `VF-05-Places.mp4` |
-| J12 | Story | Compte à rebours « Candidatures » + lien | natif IG |
-| J13 sam | Reel | Galata : salle + musique live, 12 s | rush Galata |
-| J14 dim | Story | Récap semaine, résultats Galata en chiffres si dispo | natif IG |
+| J1 lun | Carrousel épinglé | Étude de cas Galata, 6 slides | `CAS-GALATA-01..06.png` |
+| J1 | Story ×3 | Slide résultats + sondage « Votre resto est sur Reels ? » | natif IG |
+| J2 mar | Reel | Face cam 2 « Galata, en trente jours » | téléphone |
+| J3 mer | Post | Chiffre ×16 | `CHIFFRE-02-x16.png` |
+| J4 jeu | Reel | Galata hero « Une soirée chez Galata », son live | rushs C0713 + C0715 |
+| J5 ven | Reel | Face cam 1 « Pourquoi que des restaurants » | téléphone |
+| J6 sam | Post | Chiffre ×3 | `CHIFFRE-01-x3.png` |
+| J7 dim | Story | Coulisses d’un service Galata | téléphone |
+| J8 lun | Reel | Face cam 3 « Trois fois plus en trois mois » | téléphone |
+| J9 mar | Post | Statement Manifeste | `PROFIL-Grille-01-Manifeste.png` |
+| J10 mer | Reel | Galata « L’ambiance », 12 à 15 s | rushs C0669 + C0665 |
+| J11 jeu | Reel | Face cam 4 « Ce qu’on fait vraiment chez vous » | téléphone |
+| J12 ven | Post | Chiffre 1 (exclusivité) | `CHIFFRE-03-un.png` |
+| J13 sam | Reel | Face cam 5 « Une photo de menu » | téléphone |
+| J14 dim | Story | Récap semaine + compte à rebours candidatures | natif IG |
+
+Épinglés : carrousel Galata · reel Galata hero · face cam 1.
 
 ## 4. Légendes
 
-Structure fixe : **accroche (1 ligne) · espace · 2 phrases · espace · signature « Vision. » + appel**. Pas d’émojis dans le texte, un seul en fin si besoin.
-
-### Brand film
+### Carrousel Galata
 ```
-Nous ne filmons que des restaurants.
+Galata, Fribourg : comment on a rempli une salle avec quatre vidéos.
 
-Vision est l’agence vidéo des restaurants suisses. Stratégie, tournage, montage, diffusion : un seul interlocuteur, de l’idée à la publication. Votre salle, votre cuisine, votre histoire, filmées comme elles le méritent.
+Un soir de tournage, sans rien changer au service. Trente jours plus tard : seize fois plus de portée, douze mille comptes touchés, six fois plus de visites de profil, dix fois plus de clics.
 
-Candidatures ouvertes. Lien en bio.
+On ne remplit pas un feed. On remplit une salle.
+
+Un seul restaurant par cuisine, par ville. Si votre place est libre, écrivez-nous.
+
+Résultats mesurés sur 30 jours, une partie de la portée provient de contenus sponsorisés.
 ```
 
-### Reels Vision
-Les légendes des cinq reels sont dans `src/vision/edls.ts` (champ `caption`) et dans `out/LEGENDES-VF.md`.
+### Chiffre ×16
+```
+Seize fois plus de portée en trente jours, avec quatre vidéos.
 
-### Reposts Galata
+Pas des vues pour faire joli : des gens qui cliquent et qui viennent. Galata, Fribourg. Étude de cas complète en épinglé.
+
+Vision. On filme. Vous remplissez.
+```
+
+### Chiffre ×3
+```
+Trois mois. Trois fois plus de restaurants accompagnés.
+
+Zéro publicité pour nous-mêmes. Des salles remplies, et des restaurateurs qui en parlent à d’autres restaurateurs.
+
+Un seul restaurant par cuisine, par ville. La vôtre est peut-être encore libre.
+```
+
+### Chiffre 1
+```
+Un restaurant par cuisine, par ville.
+
+On ne travaille jamais pour votre concurrent direct. Quand une place est prise, elle est prise.
+
+Écrivez-nous pour savoir si la vôtre est libre.
+```
+
+### Reels Galata (compte Vision)
 ```
 Travail client — Galata, Fribourg.
 
-Café-restaurant turc, mezze maison, musique live. Tourné un soir de service, publié la semaine suivante.
+Musique live, mezze maison, une salle pleine un vendredi soir. Filmé un soir de service, publié la semaine suivante.
 
 Vision. Le contenu qui remplit.
 ```
 
+### Face cam
+Une seule phrase reprise du script + « Écrivez-nous. » Exemple : « Que des restaurants. Pas de mode, pas d’immobilier, pas de tech. Écrivez-nous. »
+
 ## 5. Hashtags
 
-Bloc unique de 8, en premier commentaire, pas dans la légende :
+Bloc unique de 8, en premier commentaire :
 
 ```
-#restaurantsuisse #gastronomiesuisse #geneve #lausanne #fribourg #zurichfood #videomarketing #agencevideo
+#restaurantsuisse #gastronomiesuisse #fribourg #lausanne #geneve #restaurateur #videomarketing #agencevideo
 ```
 
-TikTok : `#restaurant #suisse #foodvideo`.
+TikTok : `#restaurant #suisse #fribourg`.
 
-## 6. Son
-
-Les fichiers sont livrés sans musique pour que le son soit ajouté dans l’app au moment de publier : choisir un son tendance dans la bibliothèque Instagram ou TikTok, tempo 95 à 105 BPM (les coupes sont calées à 100 BPM). Les reels Galata gardent leur son direct (musique live).
-
-## 7. Règles de compte pendant la semaine de prospection
+## 6. Règles de compte pendant la semaine de prospection
 
 - Répondre à chaque commentaire dans l’heure, avec une question en retour.
-- DM à chaque restaurant qui like un reel : « Merci, vous êtes où ? On se déplace dans toute la Suisse. »
+- DM à chaque restaurant qui like : « Merci, vous êtes où ? On se déplace dans toute la Suisse romande. »
 - Pas de post sans story le même jour.
-- Ne jamais publier deux visuels typographiques à la suite.
+- Jamais deux visuels or sur noir à la suite : toujours un visage ou un vrai plan client entre deux.
+- Les chiffres : toujours ceux de l’étude de cas, arrondis, jamais d’autres.
