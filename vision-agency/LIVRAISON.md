@@ -82,6 +82,13 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 
 **Bloqué** : crédits Higgsfield épuisés (0,25 crédit restant, plan pro). Aucune génération d’image, de retouche, de vidéo ou de musique n’est possible tant que le compte n’est pas rechargé. Le rendu Remotion et la livraison continuent de fonctionner.
 
+## Kit v9 — lancement et prospection (6 septembre, soir)
+
+- 20 stories 9:16 : `deliverables/stories/` (photo, phrase, bouton « Votre place est-elle libre ? → message privé »).
+- Aperçu de la grille (12 premiers posts) : `deliverables/GRILLE-Apercu.png`.
+- Deck de prospection A4, 7 pages : `deliverables/deck/VISION-Deck-Prospection.pdf` (constat, résultats, accompagnement, photos, exclusivité, investissement 1 890.–).
+- Plan 14 jours relié aux fichiers : `PLAN-INSTAGRAM.md`. Scripts de prospection : `SCRIPTS-PROSPECTION.md`.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
