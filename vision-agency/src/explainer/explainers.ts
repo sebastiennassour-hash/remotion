@@ -8,9 +8,8 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		props: {
 			kicker: 'L’accompagnement',
 			music: 'music/01.m4a',
-			audio: 'vo/01.wav',
 			cta: 'Message privé · Lien en bio',
-			clips: [V(1), V(9), V(15), V(2), V(1)],
+			clips: [V(13), V(10), V(7), V(3), V(19)],
 			sentences: [
 				'On ne vend pas des vidéos. *On accompagne votre restaurant.*',
 				'Une matinée chez vous, avant le service, sans rien changer à votre organisation.',
@@ -25,9 +24,8 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		props: {
 			kicker: 'Positionnement',
 			music: 'music/01.m4a',
-			audio: 'vo/02.wav',
 			cta: 'Votre ville est-elle libre ?',
-			clips: [V(2), V(15), V(9), V(1)],
+			clips: [V(12), V(3), V(10), V(19)],
 			sentences: [
 				'On ne travaille *qu’avec* des restaurants. Et c’est un choix.',
 				'Une salle a une heure. Un plat se filme comme un visage. Vos clients veulent voir *la table où ils vont s’asseoir.*',
@@ -41,9 +39,8 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		props: {
 			kicker: 'Étude de cas · Fribourg',
 			music: 'music/01.m4a',
-			audio: 'vo/03.wav',
 			cta: 'Le prochain, c’est vous',
-			clips: [V(2), V(9), V(15), V(1), V(2)],
+			clips: [V(10), V(17), V(7), V(3), V(19)],
 			sentences: [
 				'Un restaurant qu’on accompagne, à Fribourg. Une cuisine excellente, un compte Instagram *silencieux.*',
 				'Un tournage, trente jours d’accompagnement.',
@@ -58,9 +55,8 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		props: {
 			kicker: 'Candidatures',
 			music: 'music/01.m4a',
-			audio: 'vo/04.wav',
 			cta: 'Écrivez-nous · Réponse en 24 h',
-			clips: [V(15), V(1), V(9), V(2), V(15)],
+			clips: [V(1), V(13), V(17), V(12), V(19)],
 			sentences: [
 				'On accompagne un *nombre limité* de restaurants par mois.',
 				'Pas par posture : faire grandir un restaurant demande du temps et de la présence.',
