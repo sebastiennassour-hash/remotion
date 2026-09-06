@@ -89,6 +89,12 @@ Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, 
 - Deck de prospection A4, 7 pages : `deliverables/deck/VISION-Deck-Prospection.pdf` (constat, résultats, accompagnement, photos, exclusivité, investissement 1 890.–).
 - Plan 14 jours relié aux fichiers : `PLAN-INSTAGRAM.md`. Scripts de prospection : `SCRIPTS-PROSPECTION.md`.
 
+## Kit v10 — message « sur la durée » (6 septembre, soir)
+
+Correction de fond demandée par Nassour : Vision ne vient pas une fois. On revient tourner chez le restaurant chaque semaine, on publie, on mesure, on ajuste, sur la durée, et c’est rentable pour lui dès le premier mois (ce qu’on coûte revient en couverts). Toute la copie a été réécrite dans ce sens : 20 posts et légendes, 20 stories, 4 carrousels, 4 reels explicatifs, 2 manifestes, brand film v2, deck (page « Rentabilité » ajoutée), plan, bio, scripts de prospection.
+
+Les anciens reels VF-01..05 et posts VA-* portent encore l’ancien message « une matinée » : ne pas les publier.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
