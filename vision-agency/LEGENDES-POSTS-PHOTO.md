@@ -9,7 +9,7 @@ Texte à l’image : POV : votre restaurant devient celui dont tout le monde par
 ```
 POV : votre restaurant devient celui dont tout le monde parle.
 
-On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -19,14 +19,14 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-02 — Facade
 
-Texte à l’image : PLUS DE CLIENTS. MOIS APRÈS MOIS.
+Texte à l’image : TROIS FOIS PLUS DE CLIENTS.
 
 ```
 Plus de clients. Mois après mois.
 
 À 19h, les gens décident où ils vont manger, téléphone en main. Un bon restaurant que personne ne connaît reste un bon restaurant vide.
 
-Notre travail, c’est l’inverse, et on le fait avec vous sur la durée. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+Notre travail, c’est l’inverse, et on le fait avec vous sur la durée. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -36,12 +36,12 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-03 — Table
 
-Texte à l’image : Une salle pleine un mardi. C’est ce qu’on construit avec vous, semaine après semaine.
+Texte à l’image : CLIENTS EN MOINS DE 90 JOURS.
 
 ```
 Une salle pleine un mardi. C’est ce qu’on construit avec vous, semaine après semaine.
 
-Pas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+Pas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct.
 
@@ -90,7 +90,7 @@ Texte à l’image : Trente ans de métier. Il méritait un partenaire sur la du
 ```
 Trente ans de métier. Il méritait un partenaire sur la durée.
 
-Chaque restaurant a une histoire que ses futurs clients ne connaissent pas encore. La raconter une fois ne suffit pas : on revient, on la montre semaine après semaine, jusqu’à ce que l’adresse devienne une référence. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+Chaque restaurant a une histoire que ses futurs clients ne connaissent pas encore. La raconter une fois ne suffit pas : on revient, on la montre semaine après semaine, jusqu’à ce que l’adresse devienne une référence. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -137,7 +137,7 @@ Vous voyez tout. Vous validez tout. Depuis votre app.
 
 Les tournages planifiés chez vous, chaque vidéo avant publication, vos chiffres en direct. Vous ne changez rien à votre service, on s’adapte à vous, et vous gardez la main sur tout.
 
-On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -152,7 +152,7 @@ Texte à l’image : On revient chaque semaine. Jusqu’à ce que vous refusiez 
 ```
 On revient chaque semaine. Jusqu’à ce que vous refusiez du monde.
 
-La salle vide, la lumière qui entre, les tables prêtes. C’est là qu’on commence. Puis on revient tourner, on publie, on mesure, on ajuste, pour que le soir vous soyez pleins. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+La salle vide, la lumière qui entre, les tables prêtes. C’est là qu’on commence. Puis on revient tourner, on publie, on mesure, on ajuste, pour que le soir vous soyez pleins. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -162,12 +162,12 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-11 — Lausanne
 
-Texte à l’image : ×3 CLIENTS. MOINS DE 90 JOURS.
+Texte à l’image : ×3 CLIENTS. ×3 CHIFFRE D’AFFAIRES.
 
 ```
 ×3 clients. Moins de 90 jours.
 
-C’est ce que les restaurants qu’on accompagne constatent en salle, pas sur un tableau de bord. +50 % de chiffre d’affaires : ce qu’on coûte revient en couverts dès le premier mois, et on continue mois après mois.
+C’est ce que les restaurants qu’on accompagne constatent en salle, pas sur un tableau de bord. ×3 de chiffre d’affaires : ce qu’on coûte revient en couverts dès le premier mois, et on continue mois après mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -197,7 +197,7 @@ Texte à l’image : On ne vient pas une fois. On revient.
 ```
 On ne vient pas une fois. On revient.
 
-Une équipe légère, chez vous, plusieurs fois par mois. Avant le service, pendant, après. Vous ne fermez pas, vous ne jouez rien. On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+Une équipe légère, chez vous, plusieurs fois par mois. Avant le service, pendant, après. Vous ne fermez pas, vous ne jouez rien. On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -207,10 +207,10 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-14 — Scene
 
-Texte à l’image : +50 % DE CHIFFRE D’AFFAIRES.
+Texte à l’image : CHIFFRE D’AFFAIRES EN MOINS DE 90 JOURS.
 
 ```
-+50 % de chiffre d’affaires.
+×3 de chiffre d’affaires.
 
 C’est ce que constatent les restaurants qu’on accompagne. Ce qu’on coûte revient en couverts dès le premier mois, le reste est pour vous. Un restaurant devient un plateau, le vôtre, tel qu’il est, et on y revient chaque semaine. Dernier restaurant accompagné : 12 000 personnes touchées en 30 jours, une portée multipliée par 16, des visites de profil multipliées par 6.
 
@@ -227,7 +227,7 @@ Texte à l’image : — Vous cuisinez. On s’occupe du reste, tous les mois.
 ```
 Vous cuisinez. On s’occupe du reste, tous les mois.
 
-Stratégie, tournages réguliers, diffusion, suivi des résultats chaque semaine : un seul interlocuteur, sur la durée, de l’idée à la salle pleine. Et tout est visible dans votre app : ce qui est prévu, ce qui est publié, ce que ça rapporte. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+Stratégie, tournages réguliers, diffusion, suivi des résultats chaque semaine : un seul interlocuteur, sur la durée, de l’idée à la salle pleine. Et tout est visible dans votre app : ce qui est prévu, ce qui est publié, ce que ça rapporte. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -242,7 +242,7 @@ Texte à l’image : De bonne adresse à référence. C’est un chemin, on le f
 ```
 De bonne adresse à référence. C’est un chemin, on le fait avec vous.
 
-On ne travaille qu’avec des restaurants. Un seul métier, appris de l’intérieur, et une seule promesse : faire grandir votre restaurant, mois après mois, jusqu’à ce qu’on en parle dans toute la ville. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+On ne travaille qu’avec des restaurants. Un seul métier, appris de l’intérieur, et une seule promesse : faire grandir votre restaurant, mois après mois, jusqu’à ce qu’on en parle dans toute la ville. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -272,7 +272,7 @@ Texte à l’image : Le dessert n’attend pas. Vos futurs clients non plus.
 ```
 Le dessert n’attend pas. Vos futurs clients non plus.
 
-On connaît la seconde où la croûte craque, et l’heure où les gens réservent. Notre métier, c’est d’en faire une habitude dans votre salle, semaine après semaine. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+On connaît la seconde où la croûte craque, et l’heure où les gens réservent. Notre métier, c’est d’en faire une habitude dans votre salle, semaine après semaine. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -282,12 +282,12 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-19 — Rire
 
-Texte à l’image : Ce qu’on construit avec vous : des soirées comme ça, toutes les semaines.
+Texte à l’image : ×3 clients. ×3 chiffre d’affaires. Des soirées comme ça, toutes les semaines.
 
 ```
 Ce qu’on construit avec vous : des soirées comme ça, toutes les semaines.
 
-Pas des vidéos. Une salle pleine, des habitués qui reviennent, des nouveaux qui découvrent, une équipe fière. Et un partenaire qui revient chaque semaine pour que ça dure. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+Pas des vidéos. Une salle pleine, des habitués qui reviennent, des nouveaux qui découvrent, une équipe fière. Et un partenaire qui revient chaque semaine pour que ça dure. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Vision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.
 Un restaurant par cuisine, par ville.
@@ -302,7 +302,7 @@ Texte à l’image : On ne vous livre pas des vidéos. On est chez vous tous les
 ```
 On ne vous livre pas des vidéos. On est chez vous tous les mois, jusqu’à ×3 clients.
 
-On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois.
+On ne vient pas une fois. On revient chaque semaine : tournages réguliers chez vous, publication, mesure, ajustements. Et vous gardez le contrôle sur tout depuis votre app Vision : tournages planifiés, vidéos à valider, résultats en direct. ×3 clients. ×3 chiffre d’affaires. En moins de 90 jours. C’est ce que font les restaurants qu’on accompagne, et ce qu’on coûte revient en couverts dès le premier mois.
 
 Un seul restaurant par cuisine, par ville. Candidatures ouvertes.
 
