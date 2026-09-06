@@ -35,14 +35,14 @@ export const explainers: {slug: string; props: ExplainerProps}[] = [
 		},
 	},
 	{
-		slug: 'Galata',
+		slug: 'Client',
 		props: {
 			kicker: 'Étude de cas · Fribourg',
 			audio: 'vo/03.wav',
 			cta: 'Le prochain, c’est vous',
 			clips: [V(2), V(9), V(15), V(1), V(2)],
 			sentences: [
-				'Galata, à Fribourg. Une cuisine excellente, un compte Instagram *silencieux.*',
+				'Un restaurant qu’on accompagne, à Fribourg. Une cuisine excellente, un compte Instagram *silencieux.*',
 				'Un tournage, quatre vidéos, trente jours d’accompagnement.',
 				'Portée *×16*. 12 000 personnes touchées. Visites de profil *×6*. Clics *×10*.',
 				'Au total, les restaurants qu’on accompagne ont touché *plus de 500 000 personnes.*',

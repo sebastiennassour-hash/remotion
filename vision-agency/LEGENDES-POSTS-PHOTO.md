@@ -237,7 +237,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-16 — Uniquement
 
-Texte à l’image : DE BONNE ADRESSE À RÉFÉRENCE.
+Texte à l’image : De bonne adresse à référence. C’est le chemin qu’on fait avec vous.
 
 ```
 De bonne adresse à référence.
