@@ -43,17 +43,18 @@ Dix reels Instagram 1080 × 1920, 30 images/s, 5 ou 10 secondes, rendus avec Rem
 
 Plan de publication, bio, légendes et hashtags : `PLAN-INSTAGRAM.md`. Couvertures stories et statements grille : `out/PROFIL-*.png`.
 
-## Posts photo — série finale de 20 (6 septembre, v4 : message résultats)
+## Posts photo — série finale de 20 (6 septembre, v5 : positionnement accompagnement)
 
 Dossier : `deliverables/posts-final/` (20 PNG 1080 × 1350, prêts à poster) + `EXP-04-Candidatures.mp4`.
 Légendes : `LEGENDES-POSTS-PHOTO.md` (générées par `captions-photo.mts` depuis `src/profile/photoPosts.data.ts`).
-Message : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées ; cas Galata : 12 000 personnes en 30 jours, portée ×16, visites ×6.
+Positionnement : Vision n’est pas une agence qui vend des vidéos, on accompagne les restaurants à devenir des références. Message : ×3 clients en moins de 90 jours, +50 % de chiffre d’affaires, plus de 500 000 personnes touchées ; cas Galata : 12 000 personnes en 30 jours, portée ×16, visites ×6.
 À confirmer par Nassour avant publication : le +50 % de chiffre d’affaires (constante `X3` dans le fichier de données). Sources : `photos.json` (20 photos, direction « flash direct / pellicule 35 mm »).
 
 Contrôle qualité effectué photo par photo : aucun lettrage généré (logos, badges, enseignes, menus) ne subsiste.
 - Reshoots signature : 03 Table, 07 Geste, 12 Fondue, 17 Feu, 10 Avant le service, 13 Arrivée, 14 Scène 01, 18 Dessert.
 - Nettoyage des logos par retouche image (Nano Banana Pro, image de référence) : 05 Chefs, 06 Patron, 09 Moniteur.
-- Reels explicatifs (voix off Elodie, clips Kling) : `deliverables/reels-explicatifs/EXP-01..04`.
+- Reels explicatifs (voix off Elodie, clips Kling), réécrits sur le positionnement accompagnement : `deliverables/kit-v5/small-EXP-01..04.mp4`.
+- Reshoots signature supplémentaires : 01 Coulisses, 15 Serveur, 16 Chef fin de service (logos retirés par retouche).
 
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
