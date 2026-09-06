@@ -1,5 +1,2 @@
 # nom_fichier url
-qb-05.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085732_ac67fce6-c021-4527-8431-8ff8b8efd7b2.png
-qb-06.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085732_6446897e-d518-450d-b0df-a116fc3a08d9.png
-qb-09.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085732_73c2d313-e47e-457b-b935-e2e07729dbf0.png
-qb-18.png https://d8j0ntlcm91z4.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/hf_20260906_085732_afa0c9a9-6e80-4b8a-b1b5-a53ea5e6196d.png
+posts-v3b.zip https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/38975ff7-d9e3-40be-aeb6-47eceec3239d.zip
