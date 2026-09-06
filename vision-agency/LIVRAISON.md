@@ -30,6 +30,19 @@ Dix reels Instagram 1080 × 1920, 30 images/s, 5 ou 10 secondes, rendus avec Rem
 | 09 | Associé | 12 serveur en salle | letterbox |
 | 10 | Places | 02 façade blue hour | plein cadre + CTA |
 
+
+## Kit Instagram / TikTok — compte Vision (livraison du 6 septembre)
+
+- **Archive complète du kit** : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/66e4e72c-aad0-46ec-a15f-54012f37e476.zip
+- Brand film Vision 20 s : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/df0ee827-ab0c-4395-8532-7d870288990e.mp4
+- VF-01 Exclusif : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/3e03e886-86e8-488b-aa37-6d6bc2413415.mp4
+- VF-02 Coulisses : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/e99893f1-eb35-4d0b-8a3f-17650d475f59.mp4
+- VF-03 Suisse : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/6efff70f-cb1d-44d4-8284-08febc9d1d4a.mp4
+- VF-04 Spectacle : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/d854cd88-96e8-4a5d-bb48-caa36c0894ad.mp4
+- VF-05 Places : https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/57ccfb89-76d2-43b0-81ae-2e417b57d2cb.mp4
+
+Plan de publication, bio, légendes et hashtags : `PLAN-INSTAGRAM.md`. Couvertures stories et statements grille : `out/PROFIL-*.png`.
+
 ## Plans sources (Kling 3.0 pro, 5 s, 9:16, sans son)
 
 Les URLs sont dans `clips.json`. Les images de départ ont été générées avec Cinema Studio 2.5 en 2K. Coût total : environ 130 crédits Higgsfield.
