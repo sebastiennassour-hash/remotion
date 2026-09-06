@@ -18,6 +18,8 @@ import {Explainer, calculateExplainerMetadata} from './explainer/Explainer';
 import {explainers} from './explainer/explainers';
 import {Asmr, asmrDuration} from './asmr/Asmr';
 import {asmrs} from './asmr/asmrs';
+import {Manifeste, manifesteDuration} from './manifeste/Manifeste';
+import {manifestes} from './manifeste/manifestes';
 
 loadFonts();
 
@@ -106,6 +108,18 @@ export const Root: React.FC = () => (
 				height={1920}
 				defaultProps={e.props}
 				calculateMetadata={calculateExplainerMetadata}
+			/>
+		))}
+		{manifestes.map((e, i) => (
+			<Composition
+				key={e.slug}
+				id={`MANIFESTE-${String(i + 1).padStart(2, '0')}-${e.slug}`}
+				component={Manifeste}
+				durationInFrames={manifesteDuration(e.props.shots.length)}
+				fps={30}
+				width={1080}
+				height={1920}
+				defaultProps={e.props}
 			/>
 		))}
 		{asmrs.map((e, i) => (
