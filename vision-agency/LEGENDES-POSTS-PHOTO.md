@@ -4,7 +4,7 @@ Hashtags en premier commentaire : `#restaurantsuisse #gastronomiesuisse #fribour
 
 ## POST-01 — POV
 
-Texte à l’image : POV : votre restaurant devient celui dont tout le monde parle.
+Texte à l’image : Votre restaurant, filmé comme un grand.
 
 ```
 POV : votre restaurant devient celui dont tout le monde parle.
@@ -19,7 +19,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-02 — Facade
 
-Texte à l’image : TROIS FOIS PLUS DE CLIENTS.
+Texte à l’image : Trois fois plus de clients. Mois après mois.
 
 ```
 Plus de clients. Mois après mois.
@@ -53,7 +53,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-04 — Menu
 
-Texte à l’image : On ne vend pas des vidéos. On fait de votre restaurant une adresse qu’on recommande.
+Texte à l’image : On donne faim. Ils réservent.
 
 ```
 On ne vend pas des vidéos. On fait de votre restaurant une adresse qu’on recommande.
@@ -70,7 +70,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-05 — Chefs
 
-Texte à l’image : Deux chefs. Une ville. Un seul qu’on accompagne.
+Texte à l’image : Deux chefs. Une ville. Un seul.
 
 ```
 Deux chefs. Une ville. Un seul qu’on accompagne.
@@ -85,7 +85,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-06 — Patron
 
-Texte à l’image : Trente ans de métier. Il méritait un partenaire sur la durée.
+Texte à l’image : Trente ans de métier. Enfin filmé.
 
 ```
 Trente ans de métier. Il méritait un partenaire sur la durée.
@@ -100,7 +100,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-07 — Geste
 
-Texte à l’image : Ce geste, personne ne le voyait. On l’a montré à 500 000 personnes.
+Texte à l’image : Ce geste. Vu 500 000 fois.
 
 ```
 Ce geste, personne ne le voyait. On l’a montré à 500 000 personnes.
@@ -130,7 +130,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-09 — Moniteur
 
-Texte à l’image : Vous voyez tout. Vous validez tout. Depuis votre app.
+Texte à l’image : Vous validez tout. Depuis votre app.
 
 ```
 Vous voyez tout. Vous validez tout. Depuis votre app.
@@ -147,7 +147,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-10 — Avant
 
-Texte à l’image : On revient chaque semaine. Jusqu’à ce que vous refusiez du monde.
+Texte à l’image : On revient. Jusqu’à refuser du monde.
 
 ```
 On revient chaque semaine. Jusqu’à ce que vous refusiez du monde.
@@ -162,7 +162,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-11 — Lausanne
 
-Texte à l’image : ×3 CLIENTS. ×3 CHIFFRE D’AFFAIRES.
+Texte à l’image : CLIENTS. ×3 CHIFFRE D’AFFAIRES.
 
 ```
 ×3 clients. Moins de 90 jours.
@@ -177,7 +177,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-12 — Fondue
 
-Texte à l’image : On connaît la seconde où le fromage file. Et celle où le client réserve.
+Texte à l’image : La seconde où le fromage file. On la connaît.
 
 ```
 On connaît la seconde où le fromage file. Et celle où le client réserve.
@@ -222,7 +222,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-15 — Serveur
 
-Texte à l’image : — Vous cuisinez. On s’occupe du reste, tous les mois.
+Texte à l’image : Vous cuisinez. On remplit la salle.
 
 ```
 Vous cuisinez. On s’occupe du reste, tous les mois.
@@ -237,7 +237,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-16 — Uniquement
 
-Texte à l’image : De bonne adresse à référence. C’est un chemin, on le fait avec vous.
+Texte à l’image : De bonne adresse à référence.
 
 ```
 De bonne adresse à référence. C’est un chemin, on le fait avec vous.
@@ -252,7 +252,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-17 — Feu
 
-Texte à l’image : Le coup de feu, filmé à 120 images par seconde. Vu 16 fois plus.
+Texte à l’image : Le coup de feu. Vu 16 fois plus.
 
 ```
 Le coup de feu, filmé à 120 images par seconde. Vu 16 fois plus.
@@ -267,7 +267,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-18 — Dessert
 
-Texte à l’image : Le dessert n’attend pas. Vos futurs clients non plus.
+Texte à l’image : Le dessert n’attend pas. Vos clients non plus.
 
 ```
 Le dessert n’attend pas. Vos futurs clients non plus.
@@ -282,7 +282,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-19 — Rire
 
-Texte à l’image : ×3 clients. ×3 chiffre d’affaires. Des soirées comme ça, toutes les semaines.
+Texte à l’image : Des soirées comme ça. Toutes les semaines.
 
 ```
 Ce qu’on construit avec vous : des soirées comme ça, toutes les semaines.
@@ -297,7 +297,7 @@ Votre place est peut-être encore libre : message privé.
 
 ## POST-20 — Plateau
 
-Texte à l’image : On ne vous livre pas des vidéos. On est chez vous tous les mois, jusqu’à ×3 clients.
+Texte à l’image : Chez vous tous les mois. Jusqu’à ×3.
 
 ```
 On ne vous livre pas des vidéos. On est chez vous tous les mois, jusqu’à ×3 clients.
