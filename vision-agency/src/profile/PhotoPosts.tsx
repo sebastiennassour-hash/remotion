@@ -117,7 +117,7 @@ export const PhotoPostView: React.FC<{post: PhotoPost}> = ({post}) => {
 			{post.line ? (
 				<div style={{position: 'absolute', left: M, right: M, bottom: 96}}>
 					<div style={{width: 56, height: 1.5, background: GOLD, marginBottom: 26}} />
-					<div style={{fontFamily: FRAUNCES, fontWeight: 500, fontSize: 60, lineHeight: 1.08, letterSpacing: '-0.02em', color: IVORY, maxWidth: 880}}><Em text={post.line} /></div>
+					<div style={{fontFamily: FRAUNCES, fontWeight: 500, fontSize: 68, lineHeight: 1.06, letterSpacing: '-0.025em', color: IVORY, maxWidth: 900}}><Em text={post.line} /></div>
 				</div>
 			) : null}
 			<Grain opacity={0.06} />

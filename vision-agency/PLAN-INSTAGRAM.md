@@ -75,3 +75,17 @@ Hashtags en premier commentaire : `#restaurantsuisse #gastronomiesuisse #fribour
 ## 5. Réponses aux messages privés
 
 Voir `SCRIPTS-PROSPECTION.md`.
+
+## 6. TikTok
+
+Même compte, même grille. Sur TikTok on publie les **stories 9:16 en mode photo** (3 à 5 images par publication, musique tendance calme) et les posts chiffres en image unique. Texte natif TikTok au-dessus, deux lignes maximum.
+
+| Publication | Images | Texte natif TikTok |
+| --- | --- | --- |
+| Un mardi | STORY-03, 19, 08, 18 | « Un mardi soir. Salle pleine. ×3 clients en 90 jours. » |
+| Cuisine | STORY-12, 17, 07 + CAR-04 slides 3, 6, 8 | « On filme ce que vos clients ne voient jamais. » |
+| ×3 | STORY-14, 11, 03 | « ×3 clients. ×3 chiffre d’affaires. On accompagne les restaurants, sur la durée. » |
+| Coulisses | STORY-13, 01, 09, 20 | « On ne vient pas une fois. On revient chaque semaine. » |
+| Le patron | STORY-06, 05, 16 | « Trente ans de métier. Enfin filmé. » |
+
+Légende TikTok : la première phrase du post + « Un restaurant par cuisine, par ville. Suisse romande. » Hashtags : #restaurant #suisse #fribourg #lausanne #geneve #food #foodtok #chef.

@@ -130,7 +130,7 @@ export const Root: React.FC = () => (
 		{photoPosts.map((c, i) => (
 			<Still key={`story-${c.slug}`} id={`STORY-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={Story} width={1080} height={1920} defaultProps={{i}} />
 		))}
-		<Still id="GRILLE-Apercu" component={GridPreview} width={1080} height={1440} defaultProps={{order: [2, 1, 6, 9, 10, 0, 11, 15, 16, 18, 13, 4]}} />
+		<Still id="GRILLE-Apercu" component={GridPreview} width={1080} height={1440} defaultProps={{order: [2, 6, 18, 9, 13, 11, 16, 15, 0, 10, 4, 17]}} />
 		{deck.map((_, i) => (
 			<Still key={`deck-${i}`} id={`DECK-${String(i + 1).padStart(2, '0')}`} component={DeckPageView} width={1240} height={1754} defaultProps={{pages: deck, i}} />
 		))}
