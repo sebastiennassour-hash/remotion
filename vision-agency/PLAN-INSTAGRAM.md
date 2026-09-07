@@ -33,7 +33,6 @@ Alternance : **photo forte → carrousel ou reel → photo avec chiffre**. Jamai
 | J2 mar | Carrousel épinglé | 01 « 21h14. Un mardi. » | `carousels/CAR-01-Soiree-01..07.png` |
 | J2 | Story | 07 Geste | `stories/STORY-07-Geste.png` |
 | J3 mer | Post | 02 Façade « Plus de clients. En 90 jours. » | `posts-final/POST-02-Facade.png` |
-| J3 | Reel | Manifeste 01 | `reels-final/small-MANIFESTE-01-Manifeste.mp4` |
 | J4 jeu | Post | 07 Geste « 500 000 personnes » | `posts-final/POST-07-Geste.png` |
 | J4 | Post | 09 « Vous voyez tout. Vous validez tout. Depuis votre app. » | `posts-final/POST-09-Moniteur.png` |
 | J4 | Story | 12 Fondue | `stories/STORY-12-Fondue.png` |
@@ -51,7 +50,7 @@ Alternance : **photo forte → carrousel ou reel → photo avec chiffre**. Jamai
 | J10 | Reel | Explicatif 03 « Étude de cas » | `reels-final/small-EXP-03-Client.mp4` |
 | J11 jeu | Post | 16 Chef « De bonne adresse à référence » | `posts-final/POST-16-Uniquement.png` |
 | J11 | Story | 16 | `stories/STORY-16-Uniquement.png` |
-| J12 ven | Reel | Manifeste 02 « Ce qu’on construit » | `reels-final/small-MANIFESTE-02-Salle.mp4` |
+| J12 ven | Post | 13 « On ne vient pas une fois. On revient. » | `posts-final/POST-13-Arrivee.png` |
 | J12 | Post | 17 Feu « Vu 16 fois plus » | `posts-final/POST-17-Feu.png` |
 | J13 sam | Carrousel | 03 « On ne travaille qu’avec des restaurants » | `carousels/CAR-03-Restaurants-01..07.png` |
 | J13 | Post | 19 Rire | `posts-final/POST-19-Rire.png` |

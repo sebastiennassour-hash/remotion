@@ -130,3 +130,7 @@ npx tsx render.mts               # les 15 posts
 ```
 
 Pour changer un texte : `src/reels/reels.ts` (reels) ou `src/posts.ts` (posts), puis relancer.
+
+## Retiré (7 septembre, matin)
+
+Reels « Manifeste » 01 et 02 retirés du kit et du plan : bande cinéma trop petite, texte fin illisible sur l’image, plans « photo animée » qui font diaporama. Ne pas publier. La ligne vidéo (brand film, ASMR, explicatifs) repose sur les mêmes plans et sera refaite avec de vrais plans caméra dès recharge des crédits Higgsfield (0,25 crédit restant).
