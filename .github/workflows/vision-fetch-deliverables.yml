@@ -1,0 +1,36 @@
+name: vision-fetch-deliverables
+on:
+  workflow_dispatch:
+  push:
+    branches: [claude/tout-casser-d7x5c9]
+    paths: ['vision-agency/deliverables/.trigger']
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Télécharger les livrables listés dans urls.txt
+        run: |
+          set -e
+          cd vision-agency/deliverables
+          while read -r name url; do
+            [ -z "$name" ] && continue
+            case "$name" in \#*) continue;; esac
+            echo "→ $name"
+            curl -fsSL -o "$name" "$url"
+            case "$name" in
+              *.zip) d="${name%.zip}"; mkdir -p "$d"; unzip -q -o "$name" -d "$d"; rm -f "$name";;
+            esac
+          done < urls.txt
+          ls -la
+      - name: Commit
+        run: |
+          git config user.name "vision-bot"
+          git config user.email "noreply@visionmedia-agency.com"
+          git add vision-agency/deliverables
+          git commit -m "vision-agency: livrables rendus" || echo "rien à committer"
+          git push
