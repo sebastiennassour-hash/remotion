@@ -31,7 +31,7 @@ export const brandFilmDuration = (edl: Edl, fps: number) => {
 	return Math.round((shots + edl.endCard.beats) * b);
 };
 
-const ShotView: React.FC<{shot: Shot; len: number; accent: string}> = ({shot, len, accent}) => {
+const ShotView: React.FC<{shot: Shot; len: number; accent: string; grade?: boolean}> = ({shot, len, accent, grade}) => {
 	const frame = useCurrentFrame();
 	const {fps} = useVideoConfig();
 	const scale = interpolate(frame, [0, len], [1.0, 1.07]);
@@ -51,8 +51,11 @@ const ShotView: React.FC<{shot: Shot; len: number; accent: string}> = ({shot, le
 					objectFit: 'cover',
 					objectPosition: `50% ${shot.focusY ?? 50}%`,
 					transform: `scale(${scale})`,
+					filter: grade ? 'contrast(1.16) saturate(1.22) brightness(0.96)' : undefined,
 				}}
 			/>
+			{grade ? <AbsoluteFill style={{background: 'rgba(0,70,95,0.22)', mixBlendMode: 'multiply'}} /> : null}
+			{grade ? <AbsoluteFill style={{background: 'radial-gradient(ellipse at 50% 45%, rgba(255,150,60,0.16) 0%, rgba(255,150,60,0) 60%)', mixBlendMode: 'screen'}} /> : null}
 			{/* Voile haut/bas pour la lisibilité */}
 			<AbsoluteFill
 				style={{
@@ -243,7 +246,7 @@ export const BrandFilm: React.FC<{edl?: Edl}> = ({edl = galataEdl}) => {
 		<AbsoluteFill style={{background: INK}}>
 			{items.map(({shot, from, len}, i) => (
 				<Sequence key={i} from={from} durationInFrames={len}>
-					<ShotView shot={shot} len={len} accent={accent} />
+					<ShotView shot={shot} len={len} accent={accent} grade={edl.grade} />
 				</Sequence>
 			))}
 			<Sequence from={endFrom} durationInFrames={durationInFrames - endFrom}>

@@ -38,6 +38,8 @@ export type Edl = {
 	accent?: string;
 	/** Affiche « un film Vision » sur le carton de fin */
 	signature?: boolean;
+	/** Étalonnage cinéma (ombres froides, hautes lumières chaudes, contraste) */
+	grade?: boolean;
 };
 
 // EDL provisoire : à remplacer par la sélection sur les vrais rushs Galata.
