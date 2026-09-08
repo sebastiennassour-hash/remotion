@@ -1,3 +1,2 @@
 # nom_fichier url
-ref-bocca-poster.jpg https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/6e8e318a-4856-43a5-93e2-0df3d4a02bb2.jpg
-ref-bocca-contact.jpg https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/0e3b8aa7-3a7f-4000-8820-637117cfc27c.jpg
+film3.zip https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/423f1463-4beb-4ee0-aaf3-d88ed1541611.zip
