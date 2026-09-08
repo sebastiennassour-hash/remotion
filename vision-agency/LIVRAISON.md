@@ -134,3 +134,9 @@ Pour changer un texte : `src/reels/reels.ts` (reels) ou `src/posts.ts` (posts), 
 ## Retiré (7 septembre, matin)
 
 Reels « Manifeste » 01 et 02 retirés du kit et du plan : bande cinéma trop petite, texte fin illisible sur l’image, plans « photo animée » qui font diaporama. Ne pas publier. La ligne vidéo (brand film, ASMR, explicatifs) repose sur les mêmes plans et sera refaite avec de vrais plans caméra dès recharge des crédits Higgsfield (0,25 crédit restant).
+
+## Référence Bocca Bocca et film v3 (8 septembre)
+
+Nassour a envoyé le reel « Tonight we eat Italian at Bocca Bocca » (Sydney). Analyse : 29 s, 24 plans, coupe toutes les 1,2 s, étalonnage ombres froides / hautes lumières chaudes, titres pleins cadre en gros caractères, plongées sur les assiettes, flammes, vin, portrait du chef, salle. Planche contact dans `deliverables/references/`.
+
+`VISION-Film3` (`deliverables/reels-final/small-VISION-Film3.mp4`) reproduit cette structure avec un étalonnage cinéma ajouté au moteur de montage (`grade: true`). Les plans sont encore les plans existants : maquette de rythme. Shot-list de production dans `SHOTLIST-FILM-CE-SOIR.md`.
