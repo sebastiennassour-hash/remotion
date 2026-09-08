@@ -1,2 +1,3 @@
 # nom_fichier url
-kit-best.zip https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/e1f022c7-b40f-49db-9c7c-aed5debfa67b.zip
+ref-bocca-poster.jpg https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/6e8e318a-4856-43a5-93e2-0df3d4a02bb2.jpg
+ref-bocca-contact.jpg https://d2ol7oe51mr4n9.cloudfront.net/user_3FqkaEzSuhqejW3vi12M4Z1Nzk2/0e3b8aa7-3a7f-4000-8820-637117cfc27c.jpg
