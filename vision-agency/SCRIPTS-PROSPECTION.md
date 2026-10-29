@@ -1,13 +1,13 @@
-# Vision — Scripts de prospection (semaine du 8 septembre)
+# Vision — Scripts de prospection (mis à jour le 29 octobre)
 
-Ton : direct, calme, sûr. On ne vend pas des vidéos et on ne vient pas une fois : on accompagne un restaurant sur la durée, on revient tourner chez lui chaque semaine, et c’est rentable pour lui dès le premier mois. Jamais de prix par écrit avant un appel. Toujours finir par une question fermée.
+Ton : direct, calme, sûr. On est le partenaire de croissance du restaurant, jamais « une agence vidéo » : on revient tourner chez lui chaque semaine, on mesure, on ajuste. Règles du Hub : aucun chiffre de résultat non prouvé, jamais de prix avant le RDV de stratégie (il se présente avec le calcul ROI du restaurant), aucun nom de client. Toujours finir par une question fermée.
 
 ## 1. Premier message Instagram (restaurant repéré)
 
 ```
 Bonjour [Prénom],
 Je suis passé devant [Restaurant] [hier soir / ce midi], la salle avait l’air [pleine / superbe / vide à 19h, ce qui est dommage vu la carte].
-On accompagne quelques restaurants en Suisse romande pour qu’ils deviennent la référence de leur ville : chez ceux qu’on suit, ×3 clients en moins de 90 jours.
+On aide quelques restaurants à faire venir plus de clients sur leurs services calmes, et on reste jusqu’à ce qu’ils deviennent la référence de leur ville.
 On ne prend qu’un restaurant par cuisine et par ville, et [cuisine] à [Ville] est encore libre.
 Vous avez 10 minutes cette semaine pour que je vous montre ce qu’on ferait chez vous ?
 ```
@@ -24,21 +24,21 @@ Si la place [cuisine] à [Ville] part, je ne pourrai plus vous la proposer. Un a
 
 ```
 En une phrase : on devient votre partenaire sur la durée. On revient tourner chez vous plusieurs fois par mois, sans rien changer à votre service, puis on publie, on mesure et on ajuste chaque semaine jusqu’à ce que la salle soit pleine. Vous suivez et validez tout depuis votre app Vision.
-Les restaurants qu’on accompagne font ×3 clients en moins de 90 jours.
+On fixe ensemble un objectif chiffré au départ, vous voyez vos chiffres chaque mois, et c’est sans engagement.
 Vous êtes quelle cuisine, dans quelle ville ? Je vous dis tout de suite si la place est libre.
 ```
 
 ## 4. Réponse « C’est combien ? »
 
 ```
-Ça dépend de votre salle et de votre rythme, je vous le dis en 10 minutes d’appel avec les chiffres qu’on vise chez vous. Ce que je peux vous dire tout de suite : chez les restaurants qu’on accompagne, ce qu’on coûte revient en couverts dès le premier mois. C’est un investissement qui se rembourse, pas une dépense.
+Ça dépend de votre salle et de votre rythme : je vous le présente en rendez-vous, avec votre calcul (ticket moyen, marge, couverts en plus sur vos services calmes). Ce que je peux vous dire tout de suite : sans frais de départ, sans engagement, et un objectif chiffré signé ensemble.
 Demain 14h ou jeudi 10h ?
 ```
 
 ## 5. Passage à table (en personne, 90 secondes)
 
 1. « Vous êtes plein le vendredi. Et le mardi ? »
-2. « On accompagne des restaurants pour que le mardi ressemble au vendredi. ×3 clients en moins de 90 jours chez ceux qu’on suit. »
+2. « On aide des restaurants à ce que le mardi ressemble au vendredi. On fixe un objectif chiffré ensemble, et vous voyez les chiffres chaque mois. »
 3. Montrer le brand film, 30 secondes, sans parler.
 4. « Un seul restaurant par cuisine, par ville. [Cuisine] à [Ville] est libre. Je vous garde la place jusqu’à vendredi ? »
 
@@ -46,7 +46,7 @@ Demain 14h ou jeudi 10h ?
 
 ```
 Merci pour l’échange, [Prénom].
-Ce qu’on a dit : on accompagne [Restaurant] pour en faire la référence [cuisine] de [Ville]. Tournages réguliers chez vous, publication, mesure, ajustements chaque semaine. Objectif : la salle pleine en semaine d’ici 90 jours, et on continue ensuite.
+Ce qu’on a dit : on accompagne [Restaurant] pour en faire la référence [cuisine] de [Ville]. Tournages réguliers chez vous, publication, mesure, ajustements chaque semaine. Objectif chiffré fixé ensemble sur vos services calmes, point de départ mesuré, chiffres chaque mois, sans engagement.
 Je vous bloque la place jusqu’à [jour]. Je vous envoie le deck : [PDF].
 ```
 
@@ -57,7 +57,7 @@ Je vous bloque la place jusqu’à [jour]. Je vous envoie le deck : [PDF].
 - **« Je veux réfléchir. »** → « Bien sûr. La seule chose qui ne peut pas attendre, c’est la place : un seul [cuisine] à [Ville]. Je vous la garde jusqu’à [jour] ? »
 - **« Les vidéos, ça ne marche pas pour nous. »** → « Une photo de plat ne marche pas. Une soirée qu’on a envie de vivre, à l’heure où les gens choisissent leur table, ça marche. Regardez ça. » (brand film)
 
-- **« C’est cher. »** → « Chez les restaurants qu’on accompagne : ×3 de chiffre d’affaires. Ce qu’on coûte revient en couverts dès le premier mois. La vraie question, c’est combien vous coûte une salle à moitié vide le mardi. »
+- **« C’est cher. »** → « Je comprends. On reprend votre calcul : avec votre ticket moyen et votre marge, il faut combien de couverts en plus par jour pour que ce soit rentable ? Sur vos services calmes, c’est atteignable ou pas, d’après vous ? »
 - **« Une vidéo, ça se fait en une fois. »** → « Une vidéo, oui. Un restaurant qui devient une référence, non. C’est pour ça qu’on revient chaque semaine : tourner, publier, mesurer, ajuster. »
 
 ## 8. L’app Vision (à montrer sur le téléphone, 30 secondes)

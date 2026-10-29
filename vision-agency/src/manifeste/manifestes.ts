@@ -18,7 +18,7 @@ export const manifestes: {slug: string; props: ManifesteProps}[] = [
 				{clip: V(19), text: 'Une salle pleine.'},
 				{clip: V(13), text: 'On ne vend pas des vidéos.'},
 				{clip: V(1), text: 'On revient. Chaque semaine.'},
-				{clip: V(3), text: '×3 clients. Moins de 90 jours.', gold: true},
+				{clip: V(3), text: 'On remplit vos tables.', gold: true},
 			],
 		},
 	},

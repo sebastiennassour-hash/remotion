@@ -19,9 +19,9 @@ Ce que fait la référence en 29 secondes : 24 plans, coupe toutes les 1,2 s, é
 | 12 | Serveur en marche, plateau, salle floue | On ne vend pas des vidéos. |
 | 13 | Équipe Vision qui entre avec le matériel | On revient. Chaque semaine. |
 | 14 | Le patron rit avec un client | |
-| 15 | Terrasse pleine au coucher du soleil | **×3 CLIENTS.** |
-| 16 | Plongée table, cinq mains dans le même plat | **×3 CHIFFRE D’AFFAIRES.** |
-| 17 | Coup de feu ralenti 120 i/s | En moins de 90 jours. |
+| 15 | Terrasse pleine au coucher du soleil | **ON REMPLIT** |
+| 16 | Plongée table, cinq mains dans le même plat | **VOS TABLES.** |
+| 17 | Coup de feu ralenti 120 i/s | Jusqu’à ce que vous refusiez du monde. |
 | 18 | Carton final noir, VISION or | Votre place est-elle libre ? |
 
 ## Look

@@ -11,7 +11,6 @@ import {BrandFilm, brandFilmDuration} from './galata/BrandFilm';
 import {galataEdl} from './galata/edl';
 import {visionFilm, visionReels} from './vision/edls';
 import {GridStatement, HighlightCover, gridStatements, highlightCovers} from './profile/Covers';
-import {CaseSlide, NumberPost, caseSlides, numberPosts} from './profile/CaseStudy';
 import {ErreursSlide, PourquoiSlide, StatementPost, erreurs, pourquoi, statements} from './profile/Batch2';
 import {PhotoPostComp, PhotoPostMinComp, photoPosts} from './profile/PhotoPosts';
 import {Explainer, calculateExplainerMetadata} from './explainer/Explainer';
@@ -86,12 +85,6 @@ export const Root: React.FC = () => (
 		))}
 		{gridStatements.map((g, i) => (
 			<Still key={g.slug} id={`PROFIL-Grille-${String(i + 1).padStart(2, '0')}-${g.slug}`} component={GridStatement} width={1080} height={1350} defaultProps={{kicker: g.kicker, text: g.text, index: i + 1}} />
-		))}
-		{caseSlides.map((c, i) => (
-			<Still key={c.slug} id={`CAS-GALATA-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={CaseSlide} width={1080} height={1350} defaultProps={{i}} />
-		))}
-		{numberPosts.map((c, i) => (
-			<Still key={c.slug} id={`CHIFFRE-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={NumberPost} width={1080} height={1350} defaultProps={{i}} />
 		))}
 		{pourquoi.map((c, i) => (
 			<Still key={c.slug} id={`CAS-POURQUOI-${String(i + 1).padStart(2, '0')}-${c.slug}`} component={PourquoiSlide} width={1080} height={1350} defaultProps={{i}} />

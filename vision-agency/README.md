@@ -1,6 +1,6 @@
 # Vision Agency — Campagne social media
 
-Quinze posts Instagram (format 4:5, 1080 × 1350) qui vendent Vision, l’agence vidéo exclusivement dédiée aux restaurants en Suisse. Tout est généré en code avec Remotion : changer un mot, une couleur ou l’ordre des posts se fait dans un seul fichier, puis on relance le rendu.
+Kit Instagram / TikTok de Vision, partenaire de croissance des restaurants en Suisse. Règles du Hub VISION : aucun chiffre de résultat non prouvé, jamais « agence vidéo », aucun prix public, aucun nom de client.
 
 ## Direction artistique
 

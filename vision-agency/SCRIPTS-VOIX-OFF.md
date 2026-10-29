@@ -5,7 +5,7 @@ On filme. Vous cuisinez.
 Une matinée dans votre restaurant, avant le service, sans rien changer à votre organisation.
 On repart avec un mois de contenu : des vidéos courtes, montées, publiées, suivies.
 Vous n’avez rien à apprendre, rien à poster, rien à gérer.
-Vision. L’agence vidéo des restaurants suisses.
+Vision. Partenaire de croissance des restaurants.
 
 ## EXP-02 — Pourquoi que des restaurants
 On ne filme que des restaurants. Et c’est un choix.
@@ -13,12 +13,12 @@ Une salle a une heure. Un plat se filme comme un visage. Vos clients ne veulent 
 Ça ne s’apprend pas en faisant aussi de l’immobilier.
 Un restaurant par cuisine, par ville. La vôtre est peut-être libre.
 
-## EXP-03 — Galata, l’étude de cas
-Galata, à Fribourg. Une cuisine excellente, un compte Instagram silencieux.
-Un tournage, trente jours d’accompagnement.
-Portée multipliée par seize. Douze mille comptes touchés. Visites de profil par six. Clics par dix.
-On ne remplit pas un feed. On remplit une salle.
-Vision.
+## EXP-03 — Comment on mesure
+Avant la première vidéo, on mesure votre point de départ : vos services calmes, vos couverts, vos réservations.
+On fixe ensemble un objectif chiffré. Par écrit.
+Chaque mois, vous voyez ce qui a bougé. Pas des vues : des tables.
+On ne publie aucun chiffre qu’on ne peut pas prouver. Les vôtres, on les prouve.
+On ne remplit pas un feed. On remplit un restaurant.
 
 ## EXP-04 — Candidatures
 On accompagne un nombre limité de restaurants par mois.

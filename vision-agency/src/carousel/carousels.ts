@@ -1,6 +1,6 @@
 import type {CarouselDef} from './Carousel';
 
-const SIGN = '\n\nVision. On accompagne les restaurants de Suisse romande sur la durée, jusqu’à ce qu’ils deviennent des références.\nUn restaurant par cuisine, par ville.\n\nVotre place est peut-être encore libre : message privé.';
+const SIGN = '\n\nVision. Partenaire de croissance des restaurants, en Suisse. On remplit vos tables, et on reste jusqu’à ce que votre adresse devienne une référence.\nUn restaurant par cuisine, par ville.\n\nVotre place est peut-être encore libre : message privé.';
 
 export const carousels: CarouselDef[] = [
 	{
@@ -13,9 +13,9 @@ export const carousels: CarouselDef[] = [
 			{kind: 'photo', photo: '08.png'},
 			{kind: 'photo', photo: '12.png'},
 			{kind: 'photo', photo: '18.png'},
-			{kind: 'text', title: 'Une salle pleine\nun mardi.', sub: 'C’est ça qu’on construit, mois après mois, avec les restaurants qu’on accompagne.\n×3 clients en moins de 90 jours. Rentable dès le premier mois.', gold: true},
+			{kind: 'text', title: 'Une salle pleine\nun mardi.', sub: 'C’est ça qu’on construit, mois après mois, avec les restaurants qu’on accompagne.\nOn remplit vos tables. Du lundi au jeudi aussi.', gold: true},
 		],
-		caption: `21h14. Un mardi.\n\nPas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Les restaurants qu’on accompagne : ×3 clients en moins de 90 jours, ×3 de chiffre d’affaires.${SIGN}`,
+		caption: `21h14. Un mardi.\n\nPas des vues, pas des likes : des couverts, des habitués, une équipe fière de sa salle. Un objectif chiffré fixé ensemble au départ, vos chiffres chaque mois, sans engagement.${SIGN}`,
 	},
 	{
 		slug: 'Coulisses',
@@ -58,7 +58,7 @@ export const carousels: CarouselDef[] = [
 			{kind: 'photo', photo: '34.png'},
 			{kind: 'photo', photo: '37.png'},
 			{kind: 'photo', photo: '38.png', focus: '50% 50%', zoom: 1.95},
-			{kind: 'text', title: 'On filme ça.\nEt ça remplit\nla salle.', sub: 'Le geste, l’ingrédient, la seconde juste avant le service. On revient le filmer chaque semaine, parce que c’est ce qui donne envie de venir.\n×3 clients en moins de 90 jours.', gold: true},
+			{kind: 'text', title: 'On filme ça.\nEt ça remplit\nla salle.', sub: 'Le geste, l’ingrédient, la seconde juste avant le service. On revient le filmer chaque semaine, parce que c’est ce qui donne envie de venir.', gold: true},
 		],
 		caption: `Ce que vos clients ne voient jamais.\n\n9h du matin, en cuisine. Les œufs, la tomate, le poisson sur glace, le beurre qui mousse, la pâte, le fromage qu’on râpe. Tout ce qui donne envie de venir, et que personne ne montre. On le filme, chaque semaine.${SIGN}`,
 	},

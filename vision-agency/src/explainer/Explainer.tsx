@@ -141,7 +141,7 @@ export const EndCard: React.FC<{cta: string}> = ({cta}) => {
 	return (
 		<AbsoluteFill style={{background: INK, justifyContent: 'center', alignItems: 'center', gap: 30}}>
 			<div style={{fontFamily: FRAUNCES, fontWeight: 700, fontSize: 210, lineHeight: 0.9, color: GOLD, letterSpacing: `${0.3 - 0.25 * s}em`, opacity: s}}>VISION</div>
-			<div style={{fontFamily: FRAUNCES, fontStyle: 'italic', fontSize: 40, color: IVORY, opacity: s}}>L’agence vidéo des restaurants suisses</div>
+			<div style={{fontFamily: FRAUNCES, fontStyle: 'italic', fontSize: 40, color: IVORY, opacity: s}}>Partenaire de croissance des restaurants</div>
 			<div style={{marginTop: 40, padding: '18px 32px', border: `1.5px solid ${GOLD}`, borderRadius: 999, fontFamily: MONO, fontSize: 21, letterSpacing: '0.16em', textTransform: 'uppercase', color: GOLD, opacity: interpolate(frame, [12, 30], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp'})}}>{cta}</div>
 			<div style={{position: 'absolute', bottom: 150, fontFamily: SANS, fontSize: 24, color: 'rgba(240,235,224,0.6)'}}>@vision.agency</div>
 		</AbsoluteFill>
