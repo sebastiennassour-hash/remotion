@@ -1,0 +1,31 @@
+{
+  "name": "@remotion/vision-templates",
+  "version": "1.0.0",
+  "description": "Templates vidéo Remotion pour les reels clients de VISION (sous-titres, outro, démo)",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio",
+    "build": "remotion bundle",
+    "compositions": "remotion compositions",
+    "render:demo": "remotion render VisionReelDemo out/VisionReelDemo.mp4",
+    "render:captions": "remotion render VisionCaptions out/VisionCaptions.mp4 --props=./src/demo-captions.json",
+    "render:outro": "remotion render VisionOutro out/VisionOutro.webm --codec=vp8 --image-format=png --pixel-format=yuva420p",
+    "lint": "tsc"
+  },
+  "author": "VISION",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/cli": "workspace:*",
+    "@remotion/google-fonts": "workspace:*",
+    "@remotion/zod-types": "workspace:*",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "workspace:*",
+    "zod": "4.3.6"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  }
+}

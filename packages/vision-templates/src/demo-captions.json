@@ -1,0 +1,18 @@
+{
+  "videoSrc": null,
+  "hook": {
+    "text": "Le mardi se remplit le lundi soir.",
+    "durationMs": 3000
+  },
+  "animation": "word-by-word",
+  "fontSize": 68,
+  "legibilityGradient": true,
+  "segments": [
+    {"text": "Une assiette filmée à la bonne heure", "startMs": 3200, "endMs": 5800},
+    {"text": "publiée au moment où vos clients ont faim", "startMs": 5900, "endMs": 8600},
+    {"text": "C'est tout ce qu'il faut", "startMs": 8700, "endMs": 10900, "accent": true},
+    {"text": "Des tables réservées avant l'ouverture", "startMs": 11300, "endMs": 13900},
+    {"text": "semaine après semaine", "startMs": 14000, "endMs": 15900, "accent": true},
+    {"text": "Réservez votre table ce soir", "startMs": 16400, "endMs": 18800, "accent": true}
+  ]
+}
