@@ -140,3 +140,11 @@ Reels « Manifeste » 01 et 02 retirés du kit et du plan : bande cinéma trop p
 Nassour a envoyé le reel « Tonight we eat Italian at Bocca Bocca » (Sydney). Analyse : 29 s, 24 plans, coupe toutes les 1,2 s, étalonnage ombres froides / hautes lumières chaudes, titres pleins cadre en gros caractères, plongées sur les assiettes, flammes, vin, portrait du chef, salle. Planche contact dans `deliverables/references/`.
 
 `VISION-Film3` (`deliverables/reels-final/small-VISION-Film3.mp4`) reproduit cette structure avec un étalonnage cinéma ajouté au moteur de montage (`grade: true`). Les plans sont encore les plans existants : maquette de rythme. Shot-list de production dans `SHOTLIST-FILM-CE-SOIR.md`.
+
+## Kit v11 — aligné sur le Hub (31 octobre)
+
+- Règles appliquées (Hub VISION, validées par Nassour) : aucun chiffre de résultat non prouvé, jamais « agence vidéo », aucun prix (même dans le deck), aucun nom de client. Baseline : « On remplit vos tables ». Zone : Suisse.
+- Rendus : `deliverables/kit-hub/` (20 posts, 20 minimal, 20 stories, 31 carrousels, deck 9 pages + PDF, 6 reels dont EXP-03 « Comment on mesure », grilles, légendes).
+- Retirés du dépôt : étude de cas nommée, posts chiffres, VF-01..05, ancien brand film, LEGENDES-POSTS et SCRIPTS-FACE-CAM (client nommé).
+- Base44 : 778 pages SEO avec prix archivées ; 37 automatisations mises en pause (envois automatiques, générateur SEO, boucles 5–15 min).
+- QG du jour auto : https://claude.ai/artifact/4Q2vbDBZctfJ8ii5tT2T5Y, régénéré chaque matin à 06h35.
