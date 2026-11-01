@@ -1,0 +1,598 @@
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019914.11 MB
+Memory reported by /proc/meminfo: 14542.74 MB
+Memory reported by Node: 13440.45 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019849.41 MB
+Memory reported by /proc/meminfo: 14516.98 MB
+Memory reported by Node: 13411.51 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019918.39 MB
+Memory reported by /proc/meminfo: 14540.86 MB
+Memory reported by Node: 13437.76 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019864.30 MB
+Memory reported by /proc/meminfo: 14524.50 MB
+Memory reported by Node: 13416.99 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-01-Manifeste.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019899.69 MB
+Memory reported by /proc/meminfo: 14503.84 MB
+Memory reported by Node: 13373.47 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019930.93 MB
+Memory reported by /proc/meminfo: 14497.05 MB
+Memory reported by Node: 13368.36 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-01-Manifeste 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093019865.01 MB
+Memory reported by /proc/meminfo: 14492.59 MB
+Memory reported by Node: 13359.75 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093019865.01 MB
+Memory reported by /proc/meminfo: 14492.59 MB
+Memory reported by Node: 13359.75 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-01-Manifeste 10%  VA-01-Manifeste 20%  VA-01-Manifeste 30%  VA-01-Manifeste 40%  VA-01-Manifeste 50%  VA-01-Manifeste 60%  VA-01-Manifeste 70%  VA-01-Manifeste 80%  VA-01-Manifeste 90%  VA-01-Manifeste 100%✔ VA-01-Manifeste.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020093.47 MB
+Memory reported by /proc/meminfo: 14588.45 MB
+Memory reported by Node: 13452.91 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020031.26 MB
+Memory reported by /proc/meminfo: 14591.51 MB
+Memory reported by Node: 13451.57 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-02-Exclusif.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020063.29 MB
+Memory reported by /proc/meminfo: 14618.45 MB
+Memory reported by Node: 13463.36 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020082.43 MB
+Memory reported by /proc/meminfo: 14636.91 MB
+Memory reported by Node: 13499.92 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-02-Exclusif 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020008.35 MB
+Memory reported by /proc/meminfo: 14643.23 MB
+Memory reported by Node: 13499.92 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020008.16 MB
+Memory reported by /proc/meminfo: 14643.23 MB
+Memory reported by Node: 13499.92 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-02-Exclusif 10%  VA-02-Exclusif 20%  VA-02-Exclusif 30%  VA-02-Exclusif 40%  VA-02-Exclusif 50%  VA-02-Exclusif 60%  VA-02-Exclusif 70%  VA-02-Exclusif 80%  VA-02-Exclusif 90%  VA-02-Exclusif 100%✔ VA-02-Exclusif.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020212.39 MB
+Memory reported by /proc/meminfo: 14689.64 MB
+Memory reported by Node: 13550.73 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020202.82 MB
+Memory reported by /proc/meminfo: 14720.45 MB
+Memory reported by Node: 13578.11 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-03-Invisible.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020255.81 MB
+Memory reported by /proc/meminfo: 14773.00 MB
+Memory reported by Node: 13616.36 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020283.76 MB
+Memory reported by /proc/meminfo: 14788.82 MB
+Memory reported by Node: 13649.12 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-03-Invisible 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020207.58 MB
+Memory reported by /proc/meminfo: 14794.54 MB
+Memory reported by Node: 13648.52 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020207.58 MB
+Memory reported by /proc/meminfo: 14794.54 MB
+Memory reported by Node: 13648.52 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-03-Invisible 10%  VA-03-Invisible 20%  VA-03-Invisible 30%  VA-03-Invisible 40%  VA-03-Invisible 50%  VA-03-Invisible 60%  VA-03-Invisible 70%  VA-03-Invisible 80%  VA-03-Invisible 90%  VA-03-Invisible 100%✔ VA-03-Invisible.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020352.67 MB
+Memory reported by /proc/meminfo: 14799.73 MB
+Memory reported by Node: 13658.54 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020294.66 MB
+Memory reported by /proc/meminfo: 14823.30 MB
+Memory reported by Node: 13678.43 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-04-Offre.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020256.65 MB
+Memory reported by /proc/meminfo: 14837.39 MB
+Memory reported by Node: 13676.74 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020341.63 MB
+Memory reported by /proc/meminfo: 14868.11 MB
+Memory reported by Node: 13725.74 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-04-Offre 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020268.71 MB
+Memory reported by /proc/meminfo: 14875.67 MB
+Memory reported by Node: 13729.00 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020266.03 MB
+Memory reported by /proc/meminfo: 14875.67 MB
+Memory reported by Node: 13729.00 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-04-Offre 10%  VA-04-Offre 20%  VA-04-Offre 30%  VA-04-Offre 40%  VA-04-Offre 50%  VA-04-Offre 60%  VA-04-Offre 70%  VA-04-Offre 80%  VA-04-Offre 90%  VA-04-Offre 100%✔ VA-04-Offre.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020321.01 MB
+Memory reported by /proc/meminfo: 14763.76 MB
+Memory reported by Node: 13620.65 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020264.41 MB
+Memory reported by /proc/meminfo: 14770.46 MB
+Memory reported by Node: 13623.71 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-05-Reels.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020212.24 MB
+Memory reported by /proc/meminfo: 14756.89 MB
+Memory reported by Node: 13593.06 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020318.09 MB
+Memory reported by /proc/meminfo: 14761.39 MB
+Memory reported by Node: 13616.41 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-05-Reels 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020261.62 MB
+Memory reported by /proc/meminfo: 14770.00 MB
+Memory reported by Node: 13618.52 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020261.43 MB
+Memory reported by /proc/meminfo: 14770.00 MB
+Memory reported by Node: 13618.52 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-05-Reels 10%  VA-05-Reels 20%  VA-05-Reels 30%  VA-05-Reels 40%  VA-05-Reels 50%  VA-05-Reels 60%  VA-05-Reels 70%  VA-05-Reels 80%  VA-05-Reels 90%  VA-05-Reels 100%✔ VA-05-Reels.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020339.89 MB
+Memory reported by /proc/meminfo: 14833.31 MB
+Memory reported by Node: 13687.06 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020277.67 MB
+Memory reported by /proc/meminfo: 14838.29 MB
+Memory reported by Node: 13687.06 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-06-Temps.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020252.16 MB
+Memory reported by /proc/meminfo: 14847.85 MB
+Memory reported by Node: 13680.76 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020324.70 MB
+Memory reported by /proc/meminfo: 14875.03 MB
+Memory reported by Node: 13726.89 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-06-Temps 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020247.95 MB
+Memory reported by /proc/meminfo: 14880.20 MB
+Memory reported by Node: 13726.89 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020247.95 MB
+Memory reported by /proc/meminfo: 14880.20 MB
+Memory reported by Node: 13726.89 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-06-Temps 10%  VA-06-Temps 20%  VA-06-Temps 30%  VA-06-Temps 40%  VA-06-Temps 50%  VA-06-Temps 60%  VA-06-Temps 70%  VA-06-Temps 80%  VA-06-Temps 90%  VA-06-Temps 100%✔ VA-06-Temps.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020339.86 MB
+Memory reported by /proc/meminfo: 14903.52 MB
+Memory reported by Node: 13754.45 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020277.83 MB
+Memory reported by /proc/meminfo: 14899.82 MB
+Memory reported by Node: 13746.35 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-07-Suisse.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020287.83 MB
+Memory reported by /proc/meminfo: 14910.59 MB
+Memory reported by Node: 13738.80 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020333.96 MB
+Memory reported by /proc/meminfo: 14889.05 MB
+Memory reported by Node: 13738.80 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-07-Suisse 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020259.39 MB
+Memory reported by /proc/meminfo: 14893.09 MB
+Memory reported by Node: 13737.44 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020257.29 MB
+Memory reported by /proc/meminfo: 14893.09 MB
+Memory reported by Node: 13737.44 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-07-Suisse 10%  VA-07-Suisse 20%  VA-07-Suisse 30%  VA-07-Suisse 40%  VA-07-Suisse 50%  VA-07-Suisse 60%  VA-07-Suisse 70%  VA-07-Suisse 80%  VA-07-Suisse 90%  VA-07-Suisse 100%✔ VA-07-Suisse.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020308.85 MB
+Memory reported by /proc/meminfo: 14824.59 MB
+Memory reported by Node: 13673.29 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020248.00 MB
+Memory reported by /proc/meminfo: 14832.60 MB
+Memory reported by Node: 13677.44 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-08-AvantApres.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020269.72 MB
+Memory reported by /proc/meminfo: 14853.39 MB
+Memory reported by Node: 13683.03 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020303.41 MB
+Memory reported by /proc/meminfo: 14843.34 MB
+Memory reported by Node: 13690.88 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-08-AvantApres 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020234.28 MB
+Memory reported by /proc/meminfo: 14848.53 MB
+Memory reported by Node: 13689.87 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020234.09 MB
+Memory reported by /proc/meminfo: 14848.53 MB
+Memory reported by Node: 13689.87 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-08-AvantApres 10%  VA-08-AvantApres 20%  VA-08-AvantApres 30%  VA-08-AvantApres 40%  VA-08-AvantApres 50%  VA-08-AvantApres 60%  VA-08-AvantApres 70%  VA-08-AvantApres 80%  VA-08-AvantApres 90%  VA-08-AvantApres 100%✔ VA-08-AvantApres.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020328.04 MB
+Memory reported by /proc/meminfo: 14730.53 MB
+Memory reported by Node: 13577.80 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020265.96 MB
+Memory reported by /proc/meminfo: 14733.51 MB
+Memory reported by Node: 13575.91 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-09-Methode.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020284.40 MB
+Memory reported by /proc/meminfo: 14764.05 MB
+Memory reported by Node: 13591.00 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020335.51 MB
+Memory reported by /proc/meminfo: 14775.35 MB
+Memory reported by Node: 13621.82 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-09-Methode 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020259.33 MB
+Memory reported by /proc/meminfo: 14781.28 MB
+Memory reported by Node: 13621.82 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020258.37 MB
+Memory reported by /proc/meminfo: 14781.28 MB
+Memory reported by Node: 13621.82 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-09-Methode 10%  VA-09-Methode 20%  VA-09-Methode 30%  VA-09-Methode 40%  VA-09-Methode 50%  VA-09-Methode 60%  VA-09-Methode 70%  VA-09-Methode 80%  VA-09-Methode 90%  VA-09-Methode 100%✔ VA-09-Methode.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020328.14 MB
+Memory reported by /proc/meminfo: 14708.98 MB
+Memory reported by Node: 13553.85 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020267.64 MB
+Memory reported by /proc/meminfo: 14716.37 MB
+Memory reported by Node: 13557.44 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-10-PremierServeur.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020265.01 MB
+Memory reported by /proc/meminfo: 14729.94 MB
+Memory reported by Node: 13557.10 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020316.88 MB
+Memory reported by /proc/meminfo: 14771.29 MB
+Memory reported by Node: 13614.90 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-10-PremierServeur 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020247.97 MB
+Memory reported by /proc/meminfo: 14754.63 MB
+Memory reported by Node: 13593.65 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020247.97 MB
+Memory reported by /proc/meminfo: 14754.63 MB
+Memory reported by Node: 13593.65 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-10-PremierServeur 10%  VA-10-PremierServeur 20%  VA-10-PremierServeur 30%  VA-10-PremierServeur 40%  VA-10-PremierServeur 50%  VA-10-PremierServeur 60%  VA-10-PremierServeur 70%  VA-10-PremierServeur 80%  VA-10-PremierServeur 90%  VA-10-PremierServeur 100%✔ VA-10-PremierServeur.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020322.01 MB
+Memory reported by /proc/meminfo: 14758.46 MB
+Memory reported by Node: 13601.47 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020260.13 MB
+Memory reported by /proc/meminfo: 14763.15 MB
+Memory reported by Node: 13601.09 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-11-Ouverture.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020285.48 MB
+Memory reported by /proc/meminfo: 14806.39 MB
+Memory reported by Node: 13628.03 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020325.87 MB
+Memory reported by /proc/meminfo: 14842.38 MB
+Memory reported by Node: 13683.15 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-11-Ouverture 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020253.90 MB
+Memory reported by /proc/meminfo: 14849.82 MB
+Memory reported by Node: 13686.57 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020253.90 MB
+Memory reported by /proc/meminfo: 14849.82 MB
+Memory reported by Node: 13686.57 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-11-Ouverture 10%  VA-11-Ouverture 20%  VA-11-Ouverture 30%  VA-11-Ouverture 40%  VA-11-Ouverture 50%  VA-11-Ouverture 60%  VA-11-Ouverture 70%  VA-11-Ouverture 80%  VA-11-Ouverture 90%  VA-11-Ouverture 100%✔ VA-11-Ouverture.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020341.38 MB
+Memory reported by /proc/meminfo: 14847.71 MB
+Memory reported by Node: 13687.36 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020282.42 MB
+Memory reported by /proc/meminfo: 14850.39 MB
+Memory reported by Node: 13686.40 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-12-Associe.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020297.74 MB
+Memory reported by /proc/meminfo: 14871.66 MB
+Memory reported by Node: 13693.10 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020334.69 MB
+Memory reported by /proc/meminfo: 14870.90 MB
+Memory reported by Node: 13709.75 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-12-Associe 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020256.98 MB
+Memory reported by /proc/meminfo: 14871.65 MB
+Memory reported by Node: 13704.19 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020256.98 MB
+Memory reported by /proc/meminfo: 14871.65 MB
+Memory reported by Node: 13704.19 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-12-Associe 10%  VA-12-Associe 20%  VA-12-Associe 30%  VA-12-Associe 40%  VA-12-Associe 50%  VA-12-Associe 60%  VA-12-Associe 70%  VA-12-Associe 80%  VA-12-Associe 90%  VA-12-Associe 100%✔ VA-12-Associe.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020337.00 MB
+Memory reported by /proc/meminfo: 14777.69 MB
+Memory reported by Node: 13615.39 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020275.69 MB
+Memory reported by /proc/meminfo: 14781.63 MB
+Memory reported by Node: 13615.45 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-13-Spectacle.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020239.67 MB
+Memory reported by /proc/meminfo: 14818.73 MB
+Memory reported by Node: 13637.17 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020323.13 MB
+Memory reported by /proc/meminfo: 14840.17 MB
+Memory reported by Node: 13676.41 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-13-Spectacle 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020250.47 MB
+Memory reported by /proc/meminfo: 14844.90 MB
+Memory reported by Node: 13676.22 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020250.47 MB
+Memory reported by /proc/meminfo: 14844.90 MB
+Memory reported by Node: 13676.22 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-13-Spectacle 10%  VA-13-Spectacle 20%  VA-13-Spectacle 30%  VA-13-Spectacle 40%  VA-13-Spectacle 50%  VA-13-Spectacle 60%  VA-13-Spectacle 70%  VA-13-Spectacle 80%  VA-13-Spectacle 90%  VA-13-Spectacle 100%✔ VA-13-Spectacle.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020342.05 MB
+Memory reported by /proc/meminfo: 14879.38 MB
+Memory reported by Node: 13715.23 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020281.38 MB
+Memory reported by /proc/meminfo: 14880.87 MB
+Memory reported by Node: 13712.73 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-14-Places.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020257.62 MB
+Memory reported by /proc/meminfo: 14888.01 MB
+Memory reported by Node: 13704.41 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020333.99 MB
+Memory reported by /proc/meminfo: 14930.79 MB
+Memory reported by Node: 13765.47 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-14-Places 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020256.09 MB
+Memory reported by /proc/meminfo: 14925.23 MB
+Memory reported by Node: 13753.79 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020256.09 MB
+Memory reported by /proc/meminfo: 14925.23 MB
+Memory reported by Node: 13753.79 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-14-Places 10%  VA-14-Places 20%  VA-14-Places 30%  VA-14-Places 40%  VA-14-Places 50%  VA-14-Places 60%  VA-14-Places 70%  VA-14-Places 80%  VA-14-Places 90%  VA-14-Places 100%✔ VA-14-Places.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020308.79 MB
+Memory reported by /proc/meminfo: 14848.21 MB
+Memory reported by Node: 13681.89 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020248.79 MB
+Memory reported by /proc/meminfo: 14852.72 MB
+Memory reported by Node: 13681.65 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-15-Signature.png
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020210.21 MB
+Memory reported by /proc/meminfo: 14866.19 MB
+Memory reported by Node: 13679.81 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020305.15 MB
+Memory reported by /proc/meminfo: 14912.32 MB
+Memory reported by Node: 13744.50 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-15-Signature 0%Detected differing memory amounts:
+Memory reported by CGroup: 8796093020228.21 MB
+Memory reported by /proc/meminfo: 14897.01 MB
+Memory reported by Node: 13723.45 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020228.21 MB
+Memory reported by /proc/meminfo: 14897.01 MB
+Memory reported by Node: 13723.45 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+  VA-15-Signature 10%  VA-15-Signature 20%  VA-15-Signature 30%  VA-15-Signature 40%  VA-15-Signature 50%  VA-15-Signature 60%  VA-15-Signature 70%  VA-15-Signature 80%  VA-15-Signature 90%  VA-15-Signature 100%✔ VA-15-Signature.mp4
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020303.07 MB
+Memory reported by /proc/meminfo: 14828.98 MB
+Memory reported by Node: 13660.22 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+Detected differing memory amounts:
+Memory reported by CGroup: 8796093020241.75 MB
+Memory reported by /proc/meminfo: 14833.13 MB
+Memory reported by Node: 13659.97 MB
+You might have inadvertently set the --memory flag of `docker run` to a value that is higher than the global Docker memory limit.
+Using the lower amount of memory for calculation.
+✔ VA-Planche.png
+
+Terminé : 16 compositions en 226s → /home/user/remotion/vision-agency/out
+EXIT 0

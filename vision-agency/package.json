@@ -1,0 +1,26 @@
+{
+	"name": "vision-agency-campaign",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Campagne social media Vision Agency — 15 posts Instagram 4:5 générés avec Remotion",
+	"scripts": {
+		"dev": "remotion studio src/index.ts",
+		"render": "bun render.mts",
+		"planche": "remotion still src/index.ts VA-Planche out/planche.png"
+	},
+	"dependencies": {
+		"@remotion/bundler": "4.0.521",
+		"@remotion/cli": "4.0.521",
+		"@remotion/fonts": "4.0.521",
+		"@remotion/media-utils": "4.0.521",
+		"@remotion/renderer": "4.0.521",
+		"react": "19.2.0",
+		"react-dom": "19.2.0",
+		"remotion": "4.0.521"
+	},
+	"devDependencies": {
+		"@types/react": "19.2.0",
+		"@types/react-dom": "19.2.0",
+		"typescript": "5.9.2"
+	}
+}
