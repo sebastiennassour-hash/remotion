@@ -31,6 +31,7 @@ Prix en public. Chiffre de résultat sans preuve archivée. « Agence vidéo ».
 10. **Chaque lundi** : pilotage/TABLEAU-DE-BORD.md, 12 chiffres. **Chaque dimanche 17h40** : bilan honnête automatique dans le Hub.
 11. **Fin de collaboration** : clients/OFFBOARDING.md, sans exception.
 12. **Un problème, n'importe lequel** : INCIDENTS.md. Tâche rouge ou orange en 10 minutes, réglé le jour même.
+13. **Une info sur un prospect ou un client** (Nassour la dit, l'écrit ou l'enregistre) : elle est posée dans `crm/<ville>/<restaurant>.md` dans les 10 minutes, datée, avec la prochaine étape. Enregistrements dans Drive › 02-Prospection › Appels › Enregistrements, transcrits par Claude. Jamais « je te le dirai plus tard ».
 
 ## 5. Ce qui tourne tout seul (session Claude « tout-casser »)
 06h35 QG · 12h50 et 17h50 veille des urgences (INCIDENTS.md) · 18h20 (dim → jeu) fiches du lendemain · dimanche 17h40 bilan hebdo · à chaque rendu : commit, push, ligne dans le Hub. Base44 : 37 automatisations en pause tant qu'il n'y a pas de client. Make : webhook leads à brancher (Nassour connecte ClickUp).
