@@ -230,3 +230,17 @@ Objections : voir `SCRIPTS-PROSPECTION.md` §7 et « Machine à signer » §4. R
 | « Vous avez trois options » | « Je vous recommande [une formule]. Voilà pourquoi. » |
 | « On continue gratuitement » / « on rembourse » (tant que l'Annexe A n'est pas tranchée) | « Ce qui se passe à 90 jours est écrit dans le contrat, de votre côté comme du nôtre. » |
 | « Quelqu'un d'autre est intéressé » (si faux) | « La place est libre aujourd'hui. » |
+
+## Annexe — Les 5 questions de la fin (quand il hésite)
+
+À poser dans l'ordre, calmement, en écoutant la réponse entière avant la suivante. On ne vend rien ici : on fait dire au restaurateur ce qui le bloque, et c'est lui qui le règle.
+
+1. **« Sur ce qu'on vient de voir, qu'est-ce qui vous parle le plus ? »** Il se vend l'idée lui-même. On note ses mots, on les réutilise.
+2. **« Et qu'est-ce qui vous empêche de dire oui aujourd'hui ? »** Puis silence. La vraie raison vient en deuxième ou troisième phrase, jamais en première.
+3. **« Si ce point-là était réglé, est-ce qu'on y va ? »** Si oui, on a isolé la seule objection. Si non, on repose la question 2 : il y en a une autre derrière.
+4. **« Qu'est-ce qui devrait être vrai dans 90 jours pour que vous vous disiez que c'était la bonne décision ? »** Sa réponse est l'objectif de l'Annexe A. On l'écrit devant lui.
+5. **« Qui d'autre doit être d'accord, et quand est-ce qu'on les voit ? »** Un associé non vu = pas de signature. On cale l'appel de 15 minutes tout de suite.
+
+Ce qu'on ne fait jamais : contredire la raison donnée, ajouter un argument qu'il n'a pas demandé, baisser le prix, inventer un délai. Ce qu'on fait toujours : reformuler sa raison avec ses mots, proposer une seule prochaine étape datée, et noter les 5 réponses dans Vision OS dans les 10 minutes.
+
+Les objections les plus fréquentes et leur réponse validée sont dans la Bibliothèque rédactionnelle du Hub (lignes 11 à 21).
