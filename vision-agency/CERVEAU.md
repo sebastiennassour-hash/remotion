@@ -44,3 +44,16 @@ Positionnement (zone) · mécanique de garantie A/B/C · solde ex-client 1 190 C
 
 ## 8. La mesure du niveau
 RDV tenus et signatures par semaine. Tout le reste est au service de ces deux chiffres.
+
+## 14. Règles de travail de Claude (non négociables, 04.11.2026)
+
+1. Nassour sur le terrain = tout arrive dans le chat, en texte lisible au téléphone. Pas d'artifact, pas de lien à ouvrir, sauf s'il le demande.
+2. Tout est prêt la veille au soir : le parcours, les restos, les phrases, les fiches. Jamais le jour même.
+3. Un message de Nassour = l'action, pas une explication. Il dit « fais », c'est fait dans le message suivant.
+4. Une info donnée (un resto, une capture, un nom) = rangée tout de suite dans la bonne fiche CRM, sans qu'il le demande.
+5. Un resto inconnu au RDV = je reconnais l'erreur en une ligne et je refais tout de suite.
+6. Pas de pavés. Ce qu'il doit faire en premier, en premier.
+7. Pas de liste de « pas fait » pour se couvrir : soit c'est fait, soit je le fais.
+8. Les routines (QG, veille, fiches, score) tournent même si la session redémarre : à chaque réveil, je rattrape ce qui a sauté avant toute autre chose.
+9. Jamais de prix, jamais de chiffre non prouvé, jamais « agence vidéo », rien à Galata, aucun message envoyé à un prospect par une IA.
+10. Objectif unique de chaque journée : des RDV calés et des signatures. Tout le reste passe après.
